@@ -67,34 +67,34 @@ Reading should be completed **before** the class day that they are listed; the m
 
 [wk1-supp]: https://towardsdatascience.com/the-match-case-in-python-3-10-is-not-that-simple-f65b350bb025
 
-[hw-1]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk1/
-[hw-2]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk2/
-[hw-3]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk3/
-[hw-4]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk4/
-[hw-5]: https://alackles.github.io/CMSC-140-FS-22/hwk/hwk5/
+[hw-1]: https://alackles.github.io/CMSC-140-WT-22/hwk/hwk1/
+[hw-2]: https://alackles.github.io/CMSC-140-WT-22/hwk/hwk2/
+[hw-3]: https://alackles.github.io/CMSC-140-WT-22/hwk/hwk3/
+[hw-4]: https://alackles.github.io/CMSC-140-WT-22/hwk/hwk4/
+[hw-5]: https://alackles.github.io/CMSC-140-WT-22/hwk/hwk5/
  
-[lab-2]: https://alackles.github.io/CMSC-140-FS-22/labs/lab2/
-[lab-3]: https://alackles.github.io/CMSC-140-FS-22/labs/lab3/
-[lab-4]: https://alackles.github.io/CMSC-140-FS-22/labs/lab4/
-[lab-5]: https://alackles.github.io/CMSC-140-FS-22/labs/lab5/
-[lab-7]: https://alackles.github.io/CMSC-140-FS-22/labs/lab7/
-[lab-8]: https://alackles.github.io/CMSC-140-FS-22/labs/lab8/
+[lab-2]: https://alackles.github.io/CMSC-140-WT-22/labs/lab2/
+[lab-3]: https://alackles.github.io/CMSC-140-WT-22/labs/lab3/
+[lab-4]: https://alackles.github.io/CMSC-140-WT-22/labs/lab4/
+[lab-5]: https://alackles.github.io/CMSC-140-WT-22/labs/lab5/
+[lab-7]: https://alackles.github.io/CMSC-140-WT-22/labs/lab7/
+[lab-8]: https://alackles.github.io/CMSC-140-WT-22/labs/lab8/
 
-[notes-wk1-vars]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk1-vars/
-[notes-wk2-if]: https://alackles.github.io/CMSC-140-FS-22/lectures/wk2-if/
-[notes-wk2-loops]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk2-loops/
-[notes-wk3-functions]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk3-functions/
-[notes-wk3-scope]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk3-scope/
-[notes-wk4-imports]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk3-imports/
-[notes-wk4-lists]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk4-lists/
-[notes-wk4-dicts]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk4-dicts/
-[notes-wk5-strings]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk5-strings/
-[notes-wk5-regex]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk5-regex/
-[notes-wk6-pathing]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk6-pathing/
-[notes-wk6-file]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk6-basic-io/
-[notes-wk7-file]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk7-adv-io/
-[notes-wk8-docs]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk8-docs/
-[notes-wk8-mwe]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk8-mwe/
-[notes-wk9-imports2]:https://alackles.github.io/CMSC-140-FS-22/lectures/wk9-imports2/
+[notes-wk1-vars]: https://alackles.github.io/CMSC-140-WT-22/lectures/wk1-vars/
+[notes-wk2-if]: https://alackles.github.io/CMSC-140-WT-22/lectures/wk2-if/
+[notes-wk2-loops]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk2-loops/
+[notes-wk3-functions]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk3-functions/
+[notes-wk3-scope]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk3-scope/
+[notes-wk4-imports]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk3-imports/
+[notes-wk4-lists]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk4-lists/
+[notes-wk4-dicts]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk4-dicts/
+[notes-wk5-strings]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk5-strings/
+[notes-wk5-regex]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk5-regex/
+[notes-wk6-pathing]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk6-pathing/
+[notes-wk6-file]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk6-basic-io/
+[notes-wk7-file]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk7-adv-io/
+[notes-wk8-docs]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk8-docs/
+[notes-wk8-mwe]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk8-mwe/
+[notes-wk9-imports2]:https://alackles.github.io/CMSC-140-WT-22/lectures/wk9-imports2/
 
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8
