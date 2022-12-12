@@ -17,6 +17,8 @@ classes: wide
     - Day 2: Functions with return statements and an overview of imports.
 - WEEK 9: Give two full days for student choice from a variety of selected topics
 
+- Suggestion: add more file storage/unix command type stuff
+
 ## Assessment & Grading Changes
 - Autograding
   - Students will be able to submit code to an autograder, which runs a multitude of test cases 

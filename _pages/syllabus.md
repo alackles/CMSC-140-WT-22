@@ -6,39 +6,31 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-_This is the syllabus for the term. For the schedule, click here._
-
 ## Front Matter
 
-**Instructor:** Acacia Ackles
-
-**Room:** Briggs 419
-
-**Time:**
-
-MW 9:50 AM - 11:00 AM (Lecture)  
-Th 10:25 AM - 12:10 PM (Lab)
-
-**Units:** 6
+| Title | Introduction to Programming with Python |
+| ----- | ----------- |
+| Instructor | Dr. Acacia Ackles |
+| Code | CMSC 140 |
+| Units | 6 |
+| Room | Briggs 419 |
+| Time | MW 1:50 PM - 3:00 Pm (Lecture); Th 8:30 AM - 10:15 AM (Lab) |
 
 ### Course Materials
 
-_Automate the Boring Stuff with Python_, 2nd Edition. Free to read online [here](https://automatetheboringstuff.com/). Print copies can be purchased but are not required.
+| Material | Name | Link| Notes |
+| ----- | ----- |----- | ---- |
+| Editor | VS Code | [Link](https://code.visualstudio.com/download) | Suggested editor. Not required; you can use any editor, but I can only provide guaranteed support for VS Code|
+| Autograder | Gradescope | Link | upload Homeworks & Labs |
+| Version Control | GitHub | Link | upload Final Project |
+| Textbook | Automate the Boring Stuff with Python, 2nd Edition | [Link](https://automatetheboringstuff.com) | Free to read, but we will be using Perusall for tracking reading.
 
 You will also need a **personal laptop** to bring to class each day. If this is a barrier for you, please let me know ASAP.
-
-### Course Communication
-
-We will be using [Piazza](piazza.com/lawrence/fall2022/cmsc140) for all communication in this course, including announcements and discussions. **Make sure you are signed up for Piazza so you don't miss any information.**
-
-All correspondance with me should also go through Piazza, including scheduling meetings. You can always post privately so that only I can see it.
-
 ### Student Drop-In Hours
 
 **Office:** Steitz 131 (NOTE: NOT BRIGGS)
 
-Mon/Wed/Thu/Fri: 2:00 PM - 3:00 PM   
-Tue: _Appointment Only_ 
+**Time:** 11:00 AM - 12:00 PM (Daily)
 
 These are the times when my schedule is blocked off for nothing but to talk to you. So please do come by! 
 
@@ -52,7 +44,6 @@ It won't teach you theory of computer science, and it won't make you a Python ma
 If that sounds like fun to you, then good! Let's go. If you're looking for something else, you maybe looking for [CMSC 150](https://www.lawrence.edu/academics/college/computer-science/course-descriptions).
 
 ## Learning Goals
-
 
 By the end of this course, you should be able to do the following: 
 
@@ -68,11 +59,12 @@ By the end of this course, you should be able to do the following:
 - **L4: Style**: Write code that is easy for others to understand because it uses effective variable names and comments, and is well-organized using functions (including main) and objects as appropriate
 - **L5: Code Review**: Read and explain code written by others and approach that process in a systematic way
 - **L6: Collaboration**: Use Git and GitHub to handle versioning of projects and sharing of projects with collaborators 
-- **L7: Reflection**: Be able to reflect on your work and identify areas of strength and areas for improvement
+- **L7: Reading**: Be able to carefully read and interpret written instructional material related to Python programming
+- **L8: Reflection**: Be able to reflect on your work and identify areas of strength and areas for improvement
 
 Importantly, there are a few things you may find in first courses targeted at CS majors that this course **does not** cover. In particular, we will **not** focus on:
 
-- Object-oriented programming. This is the biggest one; we will touch on what object-oriented programming is, but this is _not_ an OOP class.
+- Object-oriented programming. This is the biggest one; Python can be used as an object-oriented language but this is _not_ an OOP class.
 - Graphical user interface tools for Python (though you can optionally explore these in your final project)
 - Big-O notation and computational complexity
 - Efficient sorting and searching 
@@ -100,11 +92,9 @@ You will have three different kinds of assessments:
 - **Labs**. These are assessments completed in class, during our longer Thursday section. They are designed to be started and completed within our lab section, but there is no penalty to you (besides your time) if it takes longer than that. 
 - **Final Project**. This is your sort of "capstone" to the course; it is a single project designed as an example of everything you have learned. For details on this final project, see the [Final Project](/final-project) tab. This project can be completed collaboratively or individually, but you will receive an individual score.
 
-Note: You will also have morning reding checks, but these aren't going to factor into your score. They're a tool for me to know what people are getting out of the readings. 
-
 ### How to Turn In Work
 
-**Homework** and **Labs** will be turned in to **Canvas** as a `.py` file. 
+**Homework** and **Labs** will be turned in to **Gradescope**.
 
 Your final project will be uploaded to your GitHub as a repository. We will set up your github in the first week of class.
 ### Mastery-Based Grading Scheme
@@ -131,56 +121,49 @@ For each learning objective, you'll receive a grade on the same mastery scale as
 
 |  | | |
 | ------ | ------- | ------ |
-| **M** | Mastery | Demonstrates mastery on 75% or more of the associated assessments, and proficiency in remaining |
-| **P** | Proficient | Demonstrates proficiency on 75% or more all associated assignments |
-| **N** | Novice | Demonstrates novice work on 75% or more of the associated assessments |
-| **IC** | Incomplete | Has not submitted at least 75% of the work for that objective |
+| **M** | Mastery | Demonstrates mastery on all of the associated assessments proficiency in remaining |
+| **P** | Proficient | Demonstrates mastery on 75% or more of all associated assignments, and proficiency in remaining |
+| **N** | Novice | Demonstrates mastery on 50% or more of all associated assessments OR has "Novice" work on ANY assignment |
+| **IC** | Incomplete | Has not demonstrated mastery on at least 50% of assignments for that objective |
 | | | |
 
-Below is an outline of which assessments match to which learning objectives, and how many mastery credits you need for each in brackets. Don't worry; as the semester goes on, I'll keep a tally for you of how you're doing on each (and you can always ask)
+Below is an outline of which assessments match to which learning objectives. Don't worry; as the semester goes on, I'll keep a tally for you of how you're doing on each (and you can always ask)
 
-**L1: Basics** [10 of 13]
+**L1: Basics** 
 - All Homeworks (HW1-HW5)
-- Labs: Week 1-5, Week 7
-- Final Project Draft
-- Final Project
+- All Labs (LAB1-LAB7)
 
-**L2: Data Processing** [3 of 4]
-- Week 7 Lab: Housekeeping 
-- Week 8 Lab: Debug Challenge
-- Final Project Draft 
-- Final Project
+**L2: Data Processing** 
+- Lab 2: Collatz Conjecture
+- Lab 5: DNA Sequencing
+- Lab 7: Heating Up
 
-**L3: Debugging** [2 of 3]
+**L3: Debugging** 
 - HW5 
-- Week 8 Lab: Debug Challenge
+- Lab 8: Debug Challenge
 - Revision of any homework where you did _not_ earn mastery credit
 
-**L4: Style** [9 of 12]
+**L4: Style** 
 - All Homeworks (HW1-HW5)
-- Labs: Weeks 1-5
-- Final project draft
-- Final project 
+- LAB2-LAB6
 
-**L5: Code Review** [2 of 3]
+**L5: Code Review** 
  - Homework 3
- - Week 8 Lab: Debugging
- - Final project feedback
+ - Lab 8: Debug Challenge
+ - Final Project Peer Review
 
-**L6: Collaboration** [3 of 4]
-- Week 1 Lab: Python Setup
-- Week 7 Lab: Housekeeping
-- Week 8 Lab: Debug Challenge
-- Final project 
+**L6: Collaboration** 
+- Lab 1: Python Setup
+- Final Project Draft
+- Final Project Peer Review
 
-**L7: Reflection**
+**L7: Reading**
 
-This one is slightly different; for mastery credit you must:
+For mastery credit, you must **complete the Perusall reading** at least 80% of the time. There are 10 assigned readings; this means you must complete 8 of them. For proficiency credit, you must complete 6 out of 10. Lower than that earns an Incomplete on this objective. 
 
-- Complete revisions of **any two assessments**. These assessments can even be ones you already earned mastery credit for the first time around. There's always something to tweak or try differently next time! 
-- Complete your **final project reflection**.
+**L8: Reflection**
 
-You must do all three of these things for Mastery credit. 2/3 will earn a Proficiency; less than that will earn an Incomplete.
+For mastery credit you must complete revisions of **any three assessments**. These assessments can even be ones you already earned mastery credit for the first time around. (Work not turned in/marked "Incomplete" does not count.) There's always something to tweak or try differently next time! 2/3 will earn a Proficiency. Lower than that earns an Incomplete on this objective.
 
 ### Gradebook
 
@@ -188,17 +171,27 @@ This will translate to the gradebook as follows:
 
 | **LU Grade** | CMSC 140 Requirements |
 | ------- | ------- |
-| **A** | Demonstrate mastery (**M**) for all 7 learning objectives.
-| **B** | Demonstrate mastery (**M**) for 4-6 learning objectives and proficiency (**P**) in remaining objectives. NOTE: Must demonstrate Mastery (**M**) of **L1: Basics**. 
+| **A** | Demonstrate mastery (**M**) for all 8 learning objectives.
+| **B** | Demonstrate mastery (**M**) for 5-7 learning objectives and proficiency (**P**) in remaining objectives. NOTE: Must demonstrate Mastery (**M**) of **L1: Basics**. 
 | **C** | Demonstrate proficiency (**P**) or better in all learning objectives. 
-| **D** | Demonstrate proficiency (**P**) in 4-6 learning objectives and novice work (**N**) in remaining objectives. NOTE: Must demonstrate Proficiency (**P**) of **L1: Basics**.
-| **F** | Demonstrates proficiency in fewer than 4 learning objectives  OR is not at least proficient in **L1: Basics**.
+| **D** | Demonstrate proficiency (**P**) in 5-7 learning objectives and novice work (**N**) in remaining objectives. NOTE: Must demonstrate Proficiency (**P**) of **L1: Basics**.
+| **F** | Demonstrates proficiency in fewer than 4 learning objectives OR is not at least proficient in **L1: Basics**.
 
-If you instead have an Incomplete (**IC**) in any learning objective, we'll talk on a case-by-case basis about the best outcome for you for the class. 
+Your final project grade is a **modifier** on these grades. 
+
+| **Modifier** | Final Project Requirements |
+| ----- | ----- |
+| + | Demonstrates **Mastery** on Final Project |
+| 0 | Demonstrates **Proficiency** on Final Project |
+| - | Demonstrates **Novice Work** on Final Project |
+
+If you fail to turn in a final project, your grade will drop one letter grade (e.g. if you would have gotten a B based on your learning objectives, you will now get a C). 
+
+_Example_: You have demonstrated Mastery of L1-L6 and L8, but only did about 6 out of 10 of the readings for L7 and earned a Proficiency. This maps to a B. You do a good job on your final project and earn Mastery on that. This maps to a + modifier. Therefore, your final score in the class is B+. 
 
 ### Revisions
 
-Learning is a non-linear process. One of the best ways to learn something is to do it wrong, then take feedback on how to do it better. For that reason, any and all assessments in this class can be revised up until the end of the term. This is to give you the ability to control your own time management and offer flexibility; however, to protect my own time and flexibility, there are some guidelines. 
+Learning is a non-linear process. One of the best ways to learn something is to do it wrong, then take feedback on how to do it better. **For that reason, any and all assessments in this class can be revised up until the end of the term**. This is to give you the ability to control your own time management and offer flexibility; however, to protect my own time and flexibility, there are some guidelines. 
 
 If you are revising **within one week** of the original feedback, I will guarantee feedback within a week of your revised submission. 
 
@@ -210,9 +203,11 @@ _Example 2:_ Lab 2 takes place on September 22nd. You receive your feedback and 
 
 ### Late Work & Extensions
 
-All late work falls under the revision policy and is considered work turned in as Incomplete. "Revise" (i.e. submit) within one week of the original deadline for guaranteed feedback.
+**All late work for homeworks and labs falls under the revision policy and is considered work turned in as Incomplete.** "Revise" (i.e. submit) within one week of the original deadline for guaranteed feedback.
 
-That said, the term moves quickly. If you are consistently submitting late work, it will impact your ability to succeed in class, and I may ask you to meet with me to figure out how to help you best succeed in the course. 
+**Final Project components (proposal, rough draft, peer feedback, and final draft) may not be turned in late.** These deadlines are firm so that you stay on track and can provide your peers with feedback. Any of these components may still be revised under the revision policy. 
+
+You may notice this means there is no late penalty for homework and labs. This is true, but the term moves quickly. If you are consistently submitting late work, it will impact your ability to succeed in class, and I will ask you to meet with me to figure out how to help you best succeed in the course. 
 
 ## Collaboration and Plagiarism
 
@@ -252,11 +247,13 @@ The following are never allowed.
 
 ### Attendance
 
-Attendance is encouraged; it is not mandatory, and it is not tracked. You will likely do better in class if you attend regularly; however, I understand that you may have many responsibilities and commitments outside this classroom.
+**Attendance is recorded, but is not part of your final grade in the course.** However, historically, regular attendance has a large impact on your final understanding of the material in the course.
+
+**I will ask you to meet with me if you miss more than one class in a row without notifying me.** When we meet, we will talk about your performance in the class and if there are any barriers to your attendance or success. If you have attendance-related accomodations, we can work out a better system for keeping up with your class engagement.
 
 I will post lecture notes and live coding demos to the course website under Materials so that if you do miss class, you can catch up. As always, you are responsible for learning any material that you miss, and as always, my student hours are available to discuss any material you might need guidance on.
 
-**Exception:** Per LU policy, attendance is required for the first week of class. If you do not attend the first day AND do not let me know why, I will reach out to you to check if you are still attending; if you do not respond and do not attend the first week, the registrar will drop you from the course. 
+**First Week Policy:** Per LU policy, attendance is required for the first week of class. If you do not attend the first day AND do not let me know why, I will reach out to you to check if you are still attending; if you do not respond and do not attend the first week, the registrar will drop you from the course. 
 
 ### Accomodations
 
@@ -264,13 +261,11 @@ I make every effort to incorporate universal design and inclusive learning into 
 
 I will follow the guidance of any academic accomodations you [request](https://www7.lawrence.edu/academics/academic-success/accessibility-services/requesting-accommodations) through the Center for Academic Success.
 
-I will also make a good-faith effort to follow other academic accomodations you may need, regardless of whether or not you have documentation from CAS, a doctor, or otherwise. If there is something I can do that you know will allow you to engage fully with the course, please do not hesitate to ask. (If you need help figuring out what that 'something' is, we can chat about that too.)
+**I will also make a good-faith effort to follow other academic accomodations you may need, regardless of whether or not you have documentation from CAS, a doctor, or otherwise.** If there is something I can do that you know will allow you to engage fully with the course, please do not hesitate to ask. (If you need help figuring out what that 'something' is, we can chat about that too.)
 
-### Illness and Mask Policy
+### Illness Policy
 
-**Please do not come to class if you are sick.** Please do not come to class if you think you might be sick. Please do not come to class if you were exposed to any sort of highly contagious airborne disease. You do not need a doctor's note and I do not need an excuse for you to miss class. Just don't come!
-
-If anybody requests that we all be masked (anonymously), then there will be a masking requirement for our course. Otherwise, we will follow Lawrence University's guidance on masking for the term.
+**Please do not come to class if you are sick.** Please do not come to class if you think you might be sick. Please do not come to class if you were exposed to any sort of highly contagious airborne disease. You do not need a doctor's note and I do not need an excuse for you to miss class. 
 
 ### Other Policies
 
@@ -279,11 +274,6 @@ Here are some other assorted course policies that may be added to over the term.
 - Food and drink are always okay to have in class, but I'm not responsible if your laptop gets drenched.
 - If you are experiencing a childcare or dependent care emergency, you are welcome to bring your child/dependent to class if you choose to attend.
 - Your health and wellbeing as a human are more important than any university course, including mine. 
-
-## Boilerplate
-
-Here is where I'll put the Lawrence boilerplate info.
-
 ## Pedagogy
 
 This section exists because I'm a big believer in transparency. For one, I think many students learn better when they understand their professors' teaching choices. For another, you're dedicating quite a lot of your time and money to be in this classroom; it seems only fair that you get insight into how it works. If you aren't interested in the pedagogy behind this course, feel free not to read this. But it is here for you if you want it. 

@@ -4,42 +4,40 @@ permalink: /schedule/
 classes: wide
 ---
 
-This is a rough schedule of topics for each day, and the release and due dates for homework assignments. 
+This is a rough schedule of topics for each day, and the release and due dates for homework assignments. Dates and topics are subject to change. 
 
-Reading should be completed **before** the class day that they are listed; the morning reading quizzes will reflect those topics.
-
-"Sweigart" refers to the textbook, _Automate the Boring Stuff with Python_ 2nd ed. All reading should come with links.
+"Perusall" means there is reading due that day on Perusall. All reading is due **before** class time on that day.
 
 
 | Date	| Topics	| Due (Before Class) |	Assigned (After Class) |
 | ------- | --------------- | ------------- | -------------- |
 | **Week 1** | **Setup & Bare Bones** | | |
-| W 1/4 | Intro to the course: Assessments, projects, and (un)grades | Syllabus | |
+| W 1/4 | Intro to the course: Assessments, projects, and (un)grades | [Syllabus][syllabus] | |
 | Th 1/5 | _Lab: GitHub & VSCode + Hello, World_ | | HW1 |
 | **Week 2** | **Conditionals & Loops** | | |
-| M 1/9 | if/else and match/case | [Sweigart 2][sweigart-2] through "elif statements"; Supplement: [match-case][wk1-supp] | |
-| W 1/11 | for and while loops | [Sweigart 2][sweigart-2] remaining | |
+| M 1/9 | if/else | Perusall |
+| W 1/11 | for and while loops | Perusall | |
 | Th 1/12 | _Lab: The Collatz Conjecture_ | HW1 | HW2 |
 | **Week 3** | **More Data Types** | | |
 | M 1/16 | _NO CLASS: MLK Day_ | | |
-| W 1/18 | Lists and Dictionaries | TBD | |
-| Th 1/19 | _LAB: TBD_ | HW2 | HW3 |
+| W 1/18 | Lists and Dictionaries | Perusall | |
+| Th 1/19 | _Lab: Search Strategies_ | HW2 | HW3 |
 | **Week 4** | **Functions** | | |
-| M 1/23 | Functions pt I: Print and Scope|  |  |
-| W 1/25 | Functions pt II: Return and Import | | |
-| Th 1/26 | _LAB: TBD_ | HW3 | HW4 |
+| M 1/23 | Functions pt I: Print and Scope |  Perusall |  |
+| W 1/25 | Functions pt II: Return and Import | Perusall | |
+| Th 1/26 | _Lab: Revisit_ | HW3 | HW4 |
 | **Week 5** | **Strings & Pattern Matching** | | |
-| M 1/30 | Strings | [Sweigart 6][sweigart-6] | Eval|
-| W 2/1 | Regex  | [Sweigart 7][sweigart-7] |  | 
-| Th 2/2 | _LAB: TBD_ | HW4 |  HW5 |
+| M 1/30 | Strings | Perusall | Middle-of-Term Eval|
+| W 2/1 | Regex  | Perusall |  | 
+| Th 2/2 | _Lab: DNA Sequencing_ | HW4; Middle-of-Term Eval |  HW5 |
 | **Week 6** | **Basic File Handling** | | |
-| M 2/6 | Pathing | Final Project Proposal; [Sweigart 9][sweigart-9] through "Checking Path Validity" | |
-| W 2/8 | File I/O | HW5; [Sweigart 9][sweigart-9] remaining | | 
+| M 2/6 | Pathing | Perusall; Final Project Proposal | |
+| W 2/8 | File I/O | Perusall; HW5 | | 
 | _Th 2/9_ | _NO LAB: READING PERIOD_ | | |
 | **Week 7** | **Advanced File Handling** | | |
 | M 2/13 | File I/O Cont'd |  | |
-| W 2/15 | Individual Exploration | CHOOSE ONE OF: Sweigart 12-19 | |
-| Th 2/16 | [_Lab: Heating Up_][lab-7] | | |
+| W 2/15 | Data Visualization | Perusall | |
+| Th 2/16 | _Lab: Heating Up_ | | |
 | **Week 8** | **Debugging** | | |
 | M 2/20 | Documentation and Error Handling | | | 
 | W 2/22 | Asking Good Questions  | | |
@@ -50,22 +48,13 @@ Reading should be completed **before** the class day that they are listed; the m
 | Th 3/2 | Final Project Revisions | Final Project Peer Comments |
 | **Week 10** | **Final Project & Course Wrap-Up** | | |
 | M 3/6 | Final Project Work |  | | 
-| W 3/8 | Course Debrief & Feedback |  | |
+| W 3/8 | Course Debrief & Feedback |  | End-of-Term Eval |
 | Th 3/9 | _Lab: Final Project Work_
 
-**Final Projects Due Tuesday, November 23 by 11:59 PM**
+**Final Projects Due Wednesday, March 15 by 5:30 PM**
 
 
-[sweigart-1]: https://automatetheboringstuff.com/2e/chapter1/
-[sweigart-2]: https://automatetheboringstuff.com/2e/chapter2/
-[sweigart-3]: https://automatetheboringstuff.com/2e/chapter3/
-[sweigart-4]: https://automatetheboringstuff.com/2e/chapter4/
-[sweigart-5]: https://automatetheboringstuff.com/2e/chapter5/
-[sweigart-6]: https://automatetheboringstuff.com/2e/chapter6/
-[sweigart-7]: https://automatetheboringstuff.com/2e/chapter7/ 
-[sweigart-9]: https://automatetheboringstuff.com/2e/chapter9/ 
-
-[wk1-supp]: https://towardsdatascience.com/the-match-case-in-python-3-10-is-not-that-simple-f65b350bb025
+[syllabus]: https://alackles.github.io/CMSC-14-WT-23/syllabus/
 
 [hw-1]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk1/
 [hw-2]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk2/
@@ -73,12 +62,13 @@ Reading should be completed **before** the class day that they are listed; the m
 [hw-4]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk4/
 [hw-5]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk5/
  
+[lab-1]: https://alackles.github.io/CMSC-140-WT-23/labs/lab2/
 [lab-2]: https://alackles.github.io/CMSC-140-WT-23/labs/lab2/
 [lab-3]: https://alackles.github.io/CMSC-140-WT-23/labs/lab3/
 [lab-4]: https://alackles.github.io/CMSC-140-WT-23/labs/lab4/
 [lab-5]: https://alackles.github.io/CMSC-140-WT-23/labs/lab5/
-[lab-7]: https://alackles.github.io/CMSC-140-WT-23/labs/lab7/
-[lab-8]: https://alackles.github.io/CMSC-140-WT-23/labs/lab8/
+[lab-6]: https://alackles.github.io/CMSC-140-WT-23/labs/lab7/
+[lab-7]: https://alackles.github.io/CMSC-140-WT-23/labs/lab8/
 
 [notes-wk1-vars]: https://alackles.github.io/CMSC-140-WT-23/lectures/wk1-vars/
 [notes-wk2-if]: https://alackles.github.io/CMSC-140-WT-23/lectures/wk2-if/
