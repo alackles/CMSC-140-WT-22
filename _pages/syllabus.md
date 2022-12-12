@@ -20,9 +20,9 @@ toc_icon: "cog"
 
 | Material | Name | Link| Notes |
 | ----- | ----- |----- | ---- |
-| Editor | VS Code | [Link](https://code.visualstudio.com/download) | Suggested editor. Not required; you can use any editor, but I can only provide guaranteed support for VS Code|
-| Autograder | Gradescope | Link | upload Homeworks & Labs |
-| Version Control | GitHub | Link | upload Final Project |
+| Gradebook | Canvas | Link | Hub for your learning materials
+| Autograder | Gradescope | Link | Upload Homeworks & Labs |
+| Reading Portal | Persuall | Link |  Reading before class 
 | Textbook | Automate the Boring Stuff with Python, 2nd Edition | [Link](https://automatetheboringstuff.com) | Free to read, but we will be using Perusall for tracking reading.
 
 You will also need a **personal laptop** to bring to class each day. If this is a barrier for you, please let me know ASAP.
