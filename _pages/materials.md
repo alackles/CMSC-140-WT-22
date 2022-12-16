@@ -12,14 +12,14 @@ Here you'll find all your homeworks. The final column in this table, _Guaranteed
 
 | HW Link | Assigned | Due | Guaranteed Feedback |  
 | ------ | ------ | ------ | -------- |
-| | | | |
+| - | -  | - | - |
 # Labs
 
 Labs will be made available before class. Each lab will have to be turned in on Canvas; you should be able to turn it in by the end of class, but as always, later submissions are accepted and .
 
 | Lab Link | Date | Guaranteed Feedback |  
 | ------ | ------ | ------ |
-| | | |
+| - | -  | -  |
 # Lecture Notes
 
 Lecture notes will be posted the day of class and may be edited afterwards to reflect live-coding. Lecture notes will include a link to directly download any code or scripts we wrote together in class. 
