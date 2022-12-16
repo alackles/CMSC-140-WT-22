@@ -13,12 +13,11 @@ Your final project for this course is either a game or visualization that shows 
 
 | Date | Milestone |
 | ----- | ------ |
-| 10/6-10/13 | Meetings with Pair Projects |
-| 10/17 | Proposal Due |
-| 11/3 | Rough Draft Due |
-| 11/10 | Peer Feedback Due |
-| 11/18 | Last due date for feedback on project |
-| 11/23 @ 5:30 PM | Final Draft & Reflection Due | 
+| 2/6 | Proposal Due |
+| 2/23 | Rough Draft Due |
+| 3/2 | Peer Feedback Due |
+| 3/9 | Last due date for feedback on project |
+| 3/15 by 5:30 PM | Final Draft & Reflection Due | 
 
 At any point between these deadlines please feel free to come see me to get additional feedback on your final project, so long as it is before the final feedback date (11/18).
 ## Guidelines
@@ -31,9 +30,10 @@ The final project is meant to be a culmination of _all_ of the skills you have l
    - Some data storage structure (lists, tuples, dictionaries)
 - **L2: Data Processing**: Your project should process either external files or user input, ideally both.
 - **L3: Debugging**: Your program should be free of errors, and should handle user-input errors gracefully (e.g. with a message).
-- **L4: Style**: Your program should be well-commented and use organized functions. You should have a `README.md` that describes what your project does and how a user can interact with it.
+- **L4: Style**: Your program should be well-commented and use organized functions. 
 - **L5: Code Review**: You will be asked to give peer feedback to your classmates' projects; you should complete this peer feedback for credit.
 - **L6: Collaboration**: Your project should be uploaded to GitHub, where you should be able to see changes between the draft and final version. 
+- **L7: Reading**: You should have a `.README` file in your repository that explains what your project does and how you created it.
 - **L7: Reflection**: You will be asked to submit a final reflection with your project. 
 
 If you hit all of these points, you'll be given full mastery credit. 4-6 will be given Proficiency, and less than 4 will be given Novice. 
@@ -50,20 +50,11 @@ Your game can include a true graphic interface, or it can be a terminal-based AS
 
 Remember that your time is limited, so pick a game that you will be able to implement between now and the end of the term.
 
-### Option 2: Interactive Visualization
+### Option 2: Data Interaction
 
-The second type of project is some type of interactive database or data visualization. By "interactive", I really just mean that the user can choose what kind of data should be displayed. It is up to you how to display this data and what kind of data you want to visualize, with the caveat that your data should be from some publicly available source. 
+The second type of project is some type of interactive database or data visualization. By "interactive", I really just mean that the user can choose what kind of data should be displayed. It is up to you how to display this data and what kind of data you want to work with, with the caveat that your data should be from some publicly available source. 
 
-We do not cover visualization methods in great depth in this class, so you may have to do some outside work to find your preferred method of visualization. I'm happy to discuss some options with you!
-
-## Solo vs. Group Project
-
-You may either complete your final project by yourself or with one other person. **If you want to do a pair project, you need to schedule a meeting with me the week that your proposal is due**.
-
-If you choose to complete your project by yourself, simply follow the guidelines listed.
-
-If you choose to complete your project with a partner, I will require that you use GitHub to track all changes so that there is a record of each partner's contribution. Additionally, _each_ of you should hit all the requirements outlined. That is, each of you will need to write code that deals with user input in some way; each of you will need to write a conditional statement and a loop; etc. This means a pair project will likely end up being slightly more complex than a solo project. 
-
+We do not cover visualization methods in great depth in this class, so you may have to do some outside work to find your preferred method of visualization. Instead of visualization, you can also create an interactive database as below in the examples. I'm happy to discuss some options with you!
 
 ## Proposal and Draft
 
@@ -84,9 +75,7 @@ Below is an example:
 
 ### Specifications: Draft 
 
-The project draft should be as close to your final project as you can manage, as this is what will provide you with the best peer feedback. At minimum, it should run without error!
-
-You will earn Mastery credit for just submitting the draft before the peer review period is up.
+The project draft should be as close to your final project as you can manage, as this is what will provide you with the best peer feedback. However, you will earn Mastery credit for just submitting the draft.
 
 ## Specifications: Peer Review
 
@@ -145,9 +134,9 @@ You do not have to answer all or even any of the following questions; they're ju
 
 ## Github Repository
 
-Your project will be turned in as a GitHub repository. Your project will be evaluated on **the version of the project that is on GitHub at 5:30 PM Central on Tuesday, November 23, 2022.** For legal reasons, I **cannot** accept work past this date and time. 
+Your project will be turned in as a GitHub repository. Your project will be evaluated on **the version of the project that is on GitHub at 5:30 PM Central on March 15, 2023.** For legal reasons, I **cannot** accept work past this date and time. 
 
-If you want to turn in an earlier draft of the project to receive feedback, you can let me know at any time prior to 11:59 PM on 11/18. This is your last date to receive feedback from me on your project before its final evaluation. 
+If you want to turn in an earlier draft of the project to receive feedback, you can let me know at any time prior to 11:59 PM on 3/9. This is your last date to receive feedback from me on your project before its final evaluation. 
 
 ### Specifications
 
@@ -161,26 +150,15 @@ Your GitHub repository should:
 - Contain all the code necessary for someone to download and run your project on their own computer without going to any outside source (besides possibly installing python or python modules)
 ## Ideas
 
-This is where I would normally post a curated list of previous years' projects. However, this is the first year this course is running, so... I can't do that. 
-
-So here is instead a list of ideas:
-
+Here are some final project repositories from past years.
 ### Game Ideas
 
-- [Snake](https://en.wikipedia.org/wiki/Snake_(video_game_genre))
-- [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
-- [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)) (essentially Wordle)
-- [Battleship](https://en.wikipedia.org/wiki/Battleship_(game))
-- [Monty Hall](https://en.wikipedia.org/wiki/Monty_Hall_problem)
+- [PacMan](https://github.com/GRJOMBAS/Pacman_Final_Project) by Gabriel Gomes (Fall 2022)
+- [Coin Pickup](https://github.com/kaylee6666/cmsc140) by Kaylee Wu (Fall 2022)
+- [Password Math](https://github.com/annikaurness/cmsc140/blob/main/urness_fin_proj.py) by Annika Urness
+### Data Interaction
 
-### Visualization Ideas
-
-- Public health maps (e.g. COVID, cancer, environmental health)
-- University admissions and retention data, e.g. [Sankey graphs](https://www.data-to-viz.com/graph/sankey.html)
-- World population over history 
-- Sports team win/loss records or other interesting sports data 
-
-Feel free to approach me with your own ideas as well. These are just to get your thinking started.
+- [ATU Fairytale Index](https://github.com/emmethhhhm/CMSC140-Final-Project) by Emmeth Murphy (Fall 2022)
 
 _Portions of this document are taken from Dr. Anya Vostinar._
 
