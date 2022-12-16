@@ -126,6 +126,7 @@ It is not scored, but you will get feedback and it will help me put your semeste
 
 You do not have to answer all or even any of the following questions; they're just a guideline for what I'm hoping you get out of this reflective portion.
 
+- What grade do you expect to receive in this course? Do you feel like that grade is an accurate reflection of your learning? Why or why not? 
 - What was the process of completing a final project like? Is there anything you wish you'd done differently? Anything you'd add or change if you had another week to work on it? Anything you'd subtract? 
 - How did the mastery-based grading style of the class impact how you approached the homeworks and labs? Or did not really impact you at all? 
 - Was there a time in this class when something finally "clicked" for you after struggling with it for a while? What made it click?

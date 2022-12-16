@@ -83,6 +83,15 @@ This class will probably be graded very differently than you're used to. We'll t
 
 For more on why I'm doing this (if you're interested), see the Pedagogy section.
 
+### Reading
+
+On some days you will have assigned reading before class. This to introduce you to the material once before class, so that in class we can work together on improving your understanding.
+
+I also assign reading because I want you to get used to reading instructional materials on programming languages. One day, there will be a widely popular programming language that you want to make use of that you didn't learn in school; I want you to be able to teach that to yourself on a basic level once the time comes. 
+
+All reading for this course will be tracked on **Perusall**. You will earn credit for the reading if it is marked as "complete" by Persuall **before class**. 
+
+You can access Persuall via Canvas on the sidebar.
 
 ### Homework, Labs, and Final Project
 
@@ -90,7 +99,7 @@ You will have three different kinds of assessments:
 
 - **Homework**. These are assessments completed outside of class. They will typically be due one week after they are assigned. 
 - **Labs**. These are assessments completed in class, during our longer Thursday section. They are designed to be started and completed within our lab section, but there is no penalty to you (besides your time) if it takes longer than that. 
-- **Final Project**. This is your sort of "capstone" to the course; it is a single project designed as an example of everything you have learned. For details on this final project, see the [Final Project](/final-project) tab. This project can be completed collaboratively or individually, but you will receive an individual score.
+- **Final Project**. This is your sort of "capstone" to the course; it is a single project designed as an example of everything you have learned. For details on this final project, see the [Final Project](/CMSC-140-WT-23/final-project) tab.
 
 ### How to Turn In Work
 
