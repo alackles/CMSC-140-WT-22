@@ -22,7 +22,7 @@ toc_icon: "cog"
 | ----- | ----- |----- | ---- |
 | Gradebook | Canvas | Link | Hub for your learning materials
 | Autograder | Gradescope | Link | Upload Homeworks & Labs |
-| Reading Portal | Persuall | Link |  Reading before class 
+| Reading Portal | Persuall | via Canvas |  Reading before class 
 | Textbook | Automate the Boring Stuff with Python, 2nd Edition | [Link](https://automatetheboringstuff.com) | Free to read, but we will be using Perusall for tracking reading.
 
 You will also need a **personal laptop** to bring to class each day. If this is a barrier for you, please let me know ASAP.
@@ -121,11 +121,10 @@ For each learning objective, you'll receive a grade on the same mastery scale as
 
 |  | | |
 | ------ | ------- | ------ |
-| **M** | Mastery | Demonstrates mastery on all of the associated assessments proficiency in remaining |
+| **M** | Mastery | Demonstrates mastery on all of the associated assessments |
 | **P** | Proficient | Demonstrates mastery on 75% or more of all associated assignments, and proficiency in remaining |
 | **N** | Novice | Demonstrates mastery on 50% or more of all associated assessments OR has "Novice" work on ANY assignment |
 | **IC** | Incomplete | Has not demonstrated mastery on at least 50% of assignments for that objective |
-| | | |
 
 Below is an outline of which assessments match to which learning objectives. Don't worry; as the semester goes on, I'll keep a tally for you of how you're doing on each (and you can always ask)
 
@@ -159,7 +158,7 @@ Below is an outline of which assessments match to which learning objectives. Don
 
 **L7: Reading**
 
-For mastery credit, you must **complete the Perusall reading** at least 80% of the time. There are 10 assigned readings; this means you must complete 8 of them. For proficiency credit, you must complete 6 out of 10. Lower than that earns an Incomplete on this objective. 
+For mastery credit, you must **complete the Perusall reading before class** at least 80% of the time. There are 10 assigned readings; this means you must complete 8 of them. For proficiency credit, you must complete 6 out of 10. Lower than that earns an Incomplete on this objective. 
 
 **L8: Reflection**
 
@@ -187,11 +186,11 @@ Your final project grade is a **modifier** on these grades.
 
 If you fail to turn in a final project, your grade will drop one letter grade (e.g. if you would have gotten a B based on your learning objectives, you will now get a C). 
 
-_Example_: You have demonstrated Mastery of L1-L6 and L8, but only did about 6 out of 10 of the readings for L7 and earned a Proficiency. This maps to a B. You do a good job on your final project and earn Mastery on that. This maps to a + modifier. Therefore, your final score in the class is B+. 
+_Example_: You have demonstrated Mastery of L1-L5 and L8, but earned proficiency in L6 and L7. This maps to a B. You do a good job on your final project and earn Mastery on that. This maps to a + modifier. Therefore, your final score in the class is B+. 
 
 ### Revisions
 
-Learning is a non-linear process. One of the best ways to learn something is to do it wrong, then take feedback on how to do it better. **For that reason, any and all assessments in this class can be revised up until the end of the term**. This is to give you the ability to control your own time management and offer flexibility; however, to protect my own time and flexibility, there are some guidelines. 
+Learning is a non-linear process. One of the best ways to learn something is to do it wrong, then take feedback on how to do it better. **For that reason, any and all homeworks and labs in this class can be revised up until the end of the term**. This is to give you the ability to control your own time management and offer flexibility; however, to protect my own time and flexibility, there are some guidelines. 
 
 If you are revising **within one week** of the original feedback, I will guarantee feedback within a week of your revised submission. 
 

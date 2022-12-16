@@ -12,7 +12,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | Date	| Topics	| Due (Before Class) |	Assigned (After Class) |
 | ------- | --------------- | ------------- | -------------- |
 | **Week 1** | **Setup & Bare Bones** | | |
-| W 1/4 | Intro to the course: Assessments, projects, and (un)grades | [Syllabus][syllabus] | |
+| W 1/4 | Intro to the course: Assessments, projects, and (un)grades | Persuall Intro (Syllabus) | |
 | Th 1/5 | _Lab: GitHub & VSCode + Hello, World_ | | HW1 |
 | **Week 2** | **Conditionals & Loops** | | |
 | M 1/9 | if/else | Perusall |
