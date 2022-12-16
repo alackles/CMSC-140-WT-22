@@ -156,7 +156,7 @@ Here are some final project repositories from past years.
 
 - [PacMan](https://github.com/GRJOMBAS/Pacman_Final_Project) by Gabriel Gomes (Fall 2022)
 - [Coin Pickup](https://github.com/kaylee6666/cmsc140) by Kaylee Wu (Fall 2022)
-- [Password Math](https://github.com/annikaurness/cmsc140/blob/main/urness_fin_proj.py) by Annika Urness
+- [Password Math](https://github.com/annikaurness/cmsc140/blob/main/urness_fin_proj.py) by Annika Urness (Fall 2022)
 ### Data Interaction
 
 - [ATU Fairytale Index](https://github.com/emmethhhhm/CMSC140-Final-Project) by Emmeth Murphy (Fall 2022)
