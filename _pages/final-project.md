@@ -148,6 +148,7 @@ Your GitHub repository should:
    - What contributions you made to the project in 1-2 sentences
 - Have instructions for how to download and run your project, or instructions on how to run your project if web-hosted
 - Contain all the code necessary for someone to download and run your project on their own computer without going to any outside source (besides possibly installing python or python modules)
+  
 ## Ideas
 
 Here are some final project repositories from past years.
