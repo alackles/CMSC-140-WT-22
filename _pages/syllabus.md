@@ -20,17 +20,17 @@ toc_icon: "cog"
 
 | Material | Name | Link| Notes |
 | ----- | ----- |----- | ---- |
-| Gradebook | Canvas | Link | Hub for your learning materials
-| Autograder | Gradescope | Link | Upload Homeworks & Labs |
-| Reading Portal | Persuall | via Canvas |  Reading before class 
-| Textbook | Automate the Boring Stuff with Python, 2nd Edition | [Link](https://automatetheboringstuff.com) | Free to read, but we will be using Perusall for tracking reading.
+| Gradebook | Canvas | [Link](https://lawrence.instructure.com/courses/4814) | Learning Hub
+| Autograder | Gradescope | [Link](https://www.gradescope.com/courses/479282) | Homeworks & Labs |
+| Reading Portal | Persuall | via Canvas |  Reading 
+| Textbook | Automate the Boring Stuff with Python, 2nd Edition | [Link](https://automatetheboringstuff.com) | _Free to read, tracked on Perusall._
 
 You will also need a **personal laptop** to bring to class each day. If this is a barrier for you, please let me know ASAP.
 ### Student Drop-In Hours
 
-**Office:** Steitz 131 (NOTE: NOT BRIGGS)
-
-**Time:** 11:00 AM - 12:00 PM (Daily)
+| Office | Time | Days |
+| ----- | ----- | ----- |
+| Steitz 131 (NOT Briggs) | 11:00 AM - 12:00 PM | M/Tu/W/Th/F
 
 These are the times when my schedule is blocked off for nothing but to talk to you. So please do come by! 
 
@@ -167,7 +167,8 @@ Below is an outline of which assessments match to which learning objectives. Don
 
 **L7: Reading**
 
-For mastery credit, you must **complete the Perusall reading before class** at least 80% of the time. There are 10 assigned readings; this means you must complete 8 of them. For proficiency credit, you must complete 6 out of 10. Lower than that earns an Incomplete on this objective. 
+For mastery credit, you must **complete the Perusall reading before class** at least 85% of the time. For proficiency credit, you must complete it at least 70% of the time. Fewer than this will earn an Incomplete on this objective.
+
 
 **L8: Reflection**
 
