@@ -34,9 +34,9 @@ The final project is meant to be a culmination of _all_ of the skills you have l
 - **L5: Code Review**: You will be asked to give peer feedback to your classmates' projects; you should complete this peer feedback for credit.
 - **L6: Collaboration**: Your project should be uploaded to GitHub, where you should be able to see changes between the draft and final version. 
 - **L7: Reading**: You should have a `.README` file in your repository that explains what your project does and how you created it.
-- **L7: Reflection**: You will be asked to submit a final reflection with your project. 
+- **L8: Reflection**: You will be asked to submit a final reflection with your project. 
 
-If you hit all of these points, you'll be given full mastery credit. 4-6 will be given Proficiency, and less than 4 will be given Novice. 
+If you hit all of these points, you'll be given full mastery credit. 5-7 will be given Proficiency, and less than 5 will be given Novice. 
 
 
 ## Types of Projects
