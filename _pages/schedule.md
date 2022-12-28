@@ -12,7 +12,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | Date	| Topics	| Due (Before Class) |	Assigned (After Class) |
 | ------- | --------------- | ------------- | -------------- |
 | **Week 1** | **Setup & Bare Bones** | | |
-| W 1/4 | Intro to the course: Assessments, projects, and (un)grades | Persuall Intro (Syllabus) | |
+| W 1/4 | Intro to the course: Assessments, projects, and (un)grades | [Pre-Class Survey][survey] | |
 | Th 1/5 | _Lab: GitHub & VSCode + Hello, World_ | | HW1 |
 | **Week 2** | **Conditionals & Loops** | | |
 | M 1/9 | if/else | Perusall |
@@ -87,4 +87,5 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [notes-wk8-mwe]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk8-mwe/
 [notes-wk9-imports2]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk9-imports2/
 
+[survey]: https://forms.gle/iBCowEvcXXYFTmG57
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8
