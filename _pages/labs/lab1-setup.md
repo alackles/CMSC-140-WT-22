@@ -79,11 +79,11 @@ On Windows, you can press the Windows key and type _cmd_; this will bring up you
 
 On Mac, you can type _Terminal_ in Spotlight; this will bring up your terminal. 
 
-Once you open your terminal, try typing (`ls` on Mac | `dir` on Windows) and hitting enter. What do you see? How does this compare to navigating through your file explorer GUI? 
+Once you open your terminal, try typing (`ls` on Mac / `dir` on Windows) and hitting enter. What do you see? How does this compare to navigating through your file explorer GUI? 
 
-You can see exactly what file you are in by typing (`pwd` on Mac | `cd` on Windows) into your terminal. This will print to your screen the entire path to the file you are currently in. 
+You can see exactly what file you are in by typing (`pwd` on Mac / `cd` on Windows) into your terminal. This will print to your screen the entire path to the file you are currently in. 
 
-🟩 Put up your green sticky note when you've successfully opened your terminal and typed (`ls` | `dir`) and (`pwd` | `cd`) and gotten the output.
+🟩 Put up your green sticky note when you've successfully opened your terminal and typed (`ls` / `dir`) and (`pwd` / `cd`) and gotten the output.
 
 ### Terminal Navigation
 
@@ -99,13 +99,13 @@ Try typing `cd ..` to return to your home directory, and then display your curre
 
 Now, try using these commands to navigate into your CMSC140 folder. 
 
-🟩 Put up your green sticky note when you've successfully navigated INTO your CMSC140 folder. Use (`pwd` | `cd`) to confirm.
+🟩 Put up your green sticky note when you've successfully navigated INTO your CMSC140 folder. Use (`pwd` / `cd`) to confirm.
 
 ### Creating and Working with Files
 
 Another very basic thing you can do in your terminal is create and access files. You don't have to edit the files themselves in your terminal, but you can work with them. 
 
-Move one directory up from your CMSC140 folder. You should know you are one directory up if you type (`ls` | `dir`) and you see CMSC140 listed as a folder in your current directory. 
+Move one directory up from your CMSC140 folder. You should know you are one directory up if you type (`ls` / `dir`) and you see CMSC140 listed as a folder in your current directory. 
 
 Now, we are going to create an empty file and move it into the CMSC140 directory using just terminal commands. 
 
@@ -123,7 +123,7 @@ On **Mac**, you can type:
 touch test.txt
 ```
 
-Now if you type (`ls` | `dir`), you should see this file. You can also open your file manager GUI and see the file there, if you like. You can even open it, though it will be blank. 
+Now if you type (`ls` / `dir`), you should see this file. You can also open your file manager GUI and see the file there, if you like. You can even open it, though it will be blank. 
 
 Next, let's move that empty file into your CMSC140 folder. 
 
@@ -141,7 +141,7 @@ move test.txt CMSC140\
 mv test.txt CMSC140/
 ```
 
-Verify the file has moved by going into your CMSC140 folder and typing (`ls` | `dir`) again to see its contents, and/or using your file manager GUI.
+Verify the file has moved by going into your CMSC140 folder and typing (`ls` / `dir`) again to see its contents, and/or using your file manager GUI.
 
 🟩 Put up your green sticky note when you've successfully created `test.txt` and moved it into your CMSC140 folder.
 
@@ -223,7 +223,7 @@ Type the following into your new **file**, and then save it.
 print("Hello, world!")
 ```
 
-Now, in your terminal, try typing (`ls`|`dir`). You should see your program, `hello.py`, listed. 
+Now, in your terminal, try typing (`ls`/`dir`). You should see your program, `hello.py`, listed. 
 
 To actually run this program, in your **Terminal**, type the following:
 
