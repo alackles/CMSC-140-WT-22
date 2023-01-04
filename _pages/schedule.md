@@ -13,31 +13,31 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | ------- | --------------- | ------------- | -------------- |
 | **Week 1** | **Setup & Bare Bones** | | |
 | W 1/4 | Intro to the course: Assessments, projects, and (un)grades | [Pre-Class Survey][survey] | |
-| Th 1/5 | _Lab: VSCode + Hello, World_ | | HW1 |
+| Th 1/5 | [_Lab: Python & VSCode + Hello, World_][lab-1] | | |
 | **Week 2** | **Conditionals & Loops** | | |
 | M 1/9 | if/else | Perusall |
 | W 1/11 | for and while loops | Perusall | |
-| Th 1/12 | _Lab: The Collatz Conjecture_ | HW1 | HW2 |
+| Th 1/12 | _Lab: The Collatz Conjecture_ | | HW1 |
 | **Week 3** | **More Data Types** | | |
 | M 1/16 | _NO CLASS: MLK Day_ | | |
 | W 1/18 | Lists and Dictionaries | Perusall | |
-| Th 1/19 | _Lab: Search Strategies_ | HW2 | HW3 |
+| Th 1/19 | _Lab: Search Strategies_ | HW1 | HW2 |
 | **Week 4** | **Functions** | | |
 | M 1/23 | Functions pt I: Print and Scope |  Perusall |  |
 | W 1/25 | Functions pt II: Return and Import | Perusall | |
-| Th 1/26 | _Lab: Revisit_ | HW3 | HW4 |
+| Th 1/26 | _Lab: Revisit_ | HW2 | HW3 |
 | **Week 5** | **Strings & Pattern Matching** | | |
 | M 1/30 | Strings | Perusall | Middle-of-Term Eval|
 | W 2/1 | Regex  | Perusall |  | 
-| Th 2/2 | _Lab: DNA Sequencing_ | HW4; Middle-of-Term Eval |  HW5 |
+| Th 2/2 | _Lab: DNA Sequencing_ | HW3; Middle-of-Term Eval |  HW4 |
 | **Week 6** | **Basic File Handling** | | |
 | M 2/6 | Pathing | Perusall; Final Project Proposal | |
-| W 2/8 | File I/O | Perusall; HW5 | | 
-| _Th 2/9_ | _NO LAB: READING PERIOD_ | | |
+| W 2/8 | File I/O | Perusall; HW4 | | 
+| _Th 2/9_ | _NO LAB: READING PERIOD_ | | HW5|
 | **Week 7** | **Advanced File Handling** | | |
 | M 2/13 | File I/O Cont'd |  | |
 | W 2/15 | Data Visualization | Perusall | |
-| Th 2/16 | _Lab: Heating Up_ | | |
+| Th 2/16 | _Lab: Heating Up_ | HW5 | |
 | **Week 8** | **Debugging** | | |
 | M 2/20 | Documentation and Error Handling | | | 
 | W 2/22 | Asking Good Questions  | | |
@@ -62,7 +62,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [hw-4]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk4/
 [hw-5]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk5/
  
-[lab-1]: https://alackles.github.io/CMSC-140-WT-23/labs/lab2/
+[lab-1]: https://alackles.github.io/CMSC-140-WT-23/labs/lab1/
 [lab-2]: https://alackles.github.io/CMSC-140-WT-23/labs/lab2/
 [lab-3]: https://alackles.github.io/CMSC-140-WT-23/labs/lab3/
 [lab-4]: https://alackles.github.io/CMSC-140-WT-23/labs/lab4/
