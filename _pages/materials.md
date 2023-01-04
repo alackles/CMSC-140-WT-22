@@ -20,7 +20,7 @@ Labs will be made available before class. Each lab will have to be turned in on 
 
 | Lab Link | Date | Guaranteed Feedback |  
 | ------ | ------ | ------ |
-| [Lab 1](alackles.github.io/cMSC-140-wt-23/labs/lab1) | 1/5 | N/A |
+| [Lab 1](https://alackles.github.io/cMSC-140-wt-23/labs/lab1) | 1/5 | N/A |
 
 # Lecture Notes
 
