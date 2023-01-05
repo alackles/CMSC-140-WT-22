@@ -45,6 +45,10 @@ On Mac, this will be called **Finder** and should look something like the follow
 
 In your file manager GUI, find and navigate to the **home directory** of your computer. You will know you've done so when you are in a folder containing other folders called _Documents_, _Desktop_, etc. 
 
+On a Windows computer, the easiest way to do this is usually to go to This PC and then click the `C:\` drive. 
+
+On a Mac, the easiest way to do this is usually to go to your Documents folder and press `Cmd + Up` (your command key plus your up arrow), which takes you to one folder higher.
+
 🟩 Put up your green sticky note when you've successfully opened your file manager GUI and found your home directory.
 
 
