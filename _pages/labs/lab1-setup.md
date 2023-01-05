@@ -233,7 +233,7 @@ python hello.py
 
 This will run the file and the program will do what you have instructed it to do: print the words "Hello, world!". 
 
-**This is the end of the lab. To turn in the lab, upload your `hello.py` file to Canvas under Lab 1. Do NOT upload your executable. You will receive full Mastery credit for uploading a working hello.py file.**
+**This is the end of the lab. To turn in the lab, upload your `hello.py` file to Canvas under Lab 1. You will receive full Mastery credit for uploading a working hello.py file.**
 
 
 [^1]: There are actually some subtle differences between a terminal (or terminal emulator), a shell, and a command-line interface, but they are often used functionally interchangably. We use the word 'terminal' in this class to refer to any interface that allows you to input commands in the form of text. If you are interested in precise differences between these terms, consider at some point taking CMSC 435: Computer Organization and Architecture.
