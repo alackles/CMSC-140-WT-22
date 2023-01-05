@@ -20,7 +20,7 @@ Labs will be made available before class. Each lab will have to be turned in on 
 
 | Lab Link | Date | Guaranteed Feedback |  
 | ------ | ------ | ------ |
-| [Lab 1](https://alackles.github.io/cMSC-140-wt-23/labs/lab1) | 1/5 | N/A |
+| [Lab 1][lab-1]) | 1/5 | N/A |
 
 # Lecture Notes
 
@@ -55,3 +55,6 @@ For problems more like the ones I ask on the homeworks, this site gives you more
 These problems go beyond the material we cover in class and introduce additional concepts and tools in Python that may be of interest to you. 
 
 _None yet._
+
+
+[lab-1]: https://alackles.github.io/CMSC-140-WT-23/labs/lab1/

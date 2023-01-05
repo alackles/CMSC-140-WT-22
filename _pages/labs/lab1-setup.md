@@ -1,6 +1,6 @@
 ---
 title: Lab 1 - Setup & Install Python
-permalink: /labs/lab1
+permalink: /labs/lab1/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
