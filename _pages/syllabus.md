@@ -34,7 +34,36 @@ You will also need a **personal laptop** to bring to class each day. If this is 
 
 These are the times when my schedule is blocked off for nothing but to talk to you. So please do come by! 
 
-If you are busy during these times, you can always schedule an appointment with me instead. Or you can swing by Steitz and see if my door is open; if it is, you are completely welcome to stop by. 
+If you are busy during these times, you can always schedule an appointment with me instead. Or you can swing by Steitz and see if my door is open; if it is, you are completely welcome to stop by.
+
+### Tutors
+
+You may also find that working with a tutor one-on-one is helpful for your learning. Tutors are available through the CAS (Center for Academic Success) and work with you **individually** and on **your own schedule**, including (at their discretion) outside regular class hours.
+
+**Make sure that even if you are meeting with a tutor, you are following the Collaboration Policy outlined below.** 
+
+You can reach out to tutors for the course individually via email. 
+
+Here are the available tutors for the course.
+
+| Name | Email | 
+| ----- | ----- |
+| CJ Carani | caranic@lawrence.edu |
+| Nafis Ahmed Munim | munimn@lawrence.edu |
+| Hung Nguyen | nguyenk@lawrence.edu |
+| Annika Urness | urnessa@lawrence.edu |
+
+Here is a suggested email template. (You do not have to follow this exactly; this is just in case you aren't sure where to start or how to reach out.)
+
+> **Subj:** CMSC 140 Tutoring
+>
+> Hi < Tutor Name >,
+>
+> My name is < Your Name >. I'm currently enrolled in CMSC 140: Intro to Programming with Python, and I am looking for a tutor, especially to go over < a particular assignment/some topic >. Do you have space for tutoring, and if so what are your available tutoring hours? 
+>
+> Thanks,
+> < Your Name >
+
 ## Overview
 
 This course will teach you the basics of how to program with Python. 
