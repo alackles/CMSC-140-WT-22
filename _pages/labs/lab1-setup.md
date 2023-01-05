@@ -158,7 +158,7 @@ Here are some cheatsheets that you should explore.
 
 # Software Installation
 
-Now that you've familiarized yourself with navigating your computer, we need to install the actual software required to write and run Java programs in this course.
+Now that you've familiarized yourself with navigating your computer, we need to install the actual software required to write and run Python programs in this course.
 
 ## Python Installation 
 
