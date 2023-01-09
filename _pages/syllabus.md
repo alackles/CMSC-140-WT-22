@@ -210,7 +210,7 @@ This will translate to the gradebook as follows:
 | **LU Grade** | CMSC 140 Requirements |
 | ------- | ------- |
 | **A** | Demonstrate mastery (**M**) for all 8 learning objectives.
-| **B** | Demonstrate mastery (**M**) for 5-7 learning objectives and proficiency (**P**) in remaining objectives. NOTE: Must demonstrate Mastery (**M**) of **L1: Basics**. 
+| **B** | Demonstrate mastery (**M**) for 5-7 learning objectives and proficiency (**P**) in remaining objectives. 
 | **C** | Demonstrate proficiency (**P**) or better in all learning objectives. 
 | **D** | Demonstrate proficiency (**P**) in 5-7 learning objectives and novice work (**N**) in remaining objectives. NOTE: Must demonstrate Proficiency (**P**) of **L1: Basics**.
 | **F** | Demonstrates proficiency in fewer than 4 learning objectives OR is not at least proficient in **L1: Basics**.
