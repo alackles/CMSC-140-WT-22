@@ -15,7 +15,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 1/4 | Intro to the course: Assessments, projects, and (un)grades | [Pre-Class Survey][survey] | |
 | Th 1/5 | [_Lab: Python & VSCode + Hello, World_][lab-1] | | |
 | **Week 2** | **Conditionals & Loops** | | |
-| M 1/9 | if/else | Perusall |
+| M 1/9 | if/else ([notes][notes-wk2-if]) | Perusall |
 | W 1/11 | for and while loops | Perusall | |
 | Th 1/12 | _Lab: The Collatz Conjecture_ | | HW1 |
 | **Week 3** | **More Data Types** | | |

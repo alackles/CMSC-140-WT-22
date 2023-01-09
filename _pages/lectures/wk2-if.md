@@ -7,9 +7,7 @@ toc_icon: "cog"
 ---
 
 
-# If/Else and Match/Case
-
-So far we've been looking at simple evaluations and expressions in Python. In today's class we're going really start to get into _control flow_: how to make your program make choices. 
+# If/Else
 
 **By the end of the class, you should be able to answer the following:**
 - How do you use the boolean operators `and`, `or`, and `not`? What do they do? 
@@ -21,6 +19,24 @@ So far we've been looking at simple evaluations and expressions in Python. In to
 
 These are questions or themes compiled from Perusall to help guide our discussion before jumping into course content.
 
+
+### Basics/Book Questions
+
+> Why is the book formatted like that/what are the triple arrows?
+
+> How do you take user input? 
+
+### Boolean Values 
+
+> What is the difference between boolean and binary? 
+
+> Can I take more than one argument for and? What about or? 
+
+> Does the order of operations apply to and/or?
+
+### If/Else
+
+> Can you use an elif statement by itself? 
 
 
 ## Lecture/Live Coding
@@ -47,7 +63,7 @@ Strings can have spaces, numbers, and can be added together (called _concatenati
 
 ```py
 my_string = 'Python is cool'
-my_string = 'cmsc140`
+my_string = 'cmsc140'
 my_string = 'hello ' + 'friend'
 ```
 

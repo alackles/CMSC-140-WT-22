@@ -20,11 +20,16 @@ Labs will be made available before class. Each lab will have to be turned in on 
 
 | Lab Link | Date | Guaranteed Feedback |  
 | ------ | ------ | ------ |
-| [Lab 1][lab-1]) | 1/5 | N/A |
+| [Lab 1][lab-1] | 1/5 | N/A |
 
 # Lecture Notes
 
 Lecture notes will be posted the day of class and may be edited afterwards to reflect live-coding. Lecture notes will include a link to directly download any code or scripts we wrote together in class. 
+
+| Notes | Date |
+| ----- | ------- |
+| [If/Else][notes-wk2-if] | 1/9 |
+
 # Guides
 
 Guides to installation practices or supplementary materials will be listed here. 
@@ -58,3 +63,6 @@ _None yet._
 
 
 [lab-1]: https://alackles.github.io/CMSC-140-WT-23/labs/lab1/
+
+
+[notes-wk2-if]: https://alackles.github.io/CMSC-140-WT-23/lectures/wk2-if/
