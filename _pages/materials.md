@@ -29,6 +29,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | Notes | Date |
 | ----- | ------- |
 | [If/Else][notes-wk2-if] | 1/9 |
+| [For and While loops][w2-d2] | 1/1 |
 
 # Guides
 
@@ -66,3 +67,4 @@ _None yet._
 
 
 [notes-wk2-if]: https://alackles.github.io/CMSC-140-WT-23/lectures/wk2-if/
+[w2-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/wk2-loops/
