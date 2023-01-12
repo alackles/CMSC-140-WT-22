@@ -53,7 +53,7 @@ Enter a number:  5
 5
 ```
 
-3. Write a block of code that will take the number input in step 2 and perform the collatz operations just _one_ time. That is, if the number is even, divide it by two. If the number is odd, multiply it by three. Print out both the result of this operation, and the original number. 
+3. Write a block of code that will take the number input in step 2 and perform the collatz operations just _one_ time. That is, if the number is even, divide it by two. If the number is odd, multiply it by three and add one. Print out both the result of this operation, and the original number. 
 
 Example output: 
 
