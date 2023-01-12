@@ -17,7 +17,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 2** | **Conditionals & Loops** | | |
 | M 1/9 | if/else ([notes][notes-wk2-if]) | Perusall |
 | W 1/11 | for and while loops ([notes][notes-wk2-loops]) | Perusall | |
-| Th 1/12 | _Lab: The Collatz Conjecture_ | | HW1 |
+| Th 1/12 | [_Lab: The Collatz Conjecture_][lab-2] | | HW1 |
 | **Week 3** | **More Data Types** | | |
 | M 1/16 | _NO CLASS: MLK Day_ | | |
 | W 1/18 | Lists and Dictionaries | Perusall | |

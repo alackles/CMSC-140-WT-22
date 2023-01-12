@@ -112,7 +112,7 @@ Two _edge cases_ you might run into at this point in the lab are:
 1. What if you give your program the number 1?
 2. What if you give your program a negative number?
 
-In both these cases, the program should simply print the number and perform no operations (the collatz conjecture only works for positive integers). The autograder's tests 2 and 3 check these possibilities.
+In both these cases, the program should simply print the number and perform no operations (the collatz conjecture only works for positive integers). The autograder's tests 2 and 4 check these possibilities.
 
 You may need to modify your code to make sure that it has the behavior you intend. 
 
