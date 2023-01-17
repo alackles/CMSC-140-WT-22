@@ -21,7 +21,7 @@ Labs will be made available before class. Each lab will have to be turned in on 
 | Lab Link | Date | Guaranteed Feedback |  
 | ------ | ------ | ------ |
 | [Lab 1][lab-1] | 1/5 | N/A |
-| [Lab 2][lab-2] | 1/12 | N/A |
+| [Lab 2][lab-2] | 1/12 | 1/24 |
 
 # Lecture Notes
 

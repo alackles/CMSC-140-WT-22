@@ -12,7 +12,7 @@ On this homework, the problems will be relatively short, but there are many of t
 
 Note that questions 1-8 are programming assignments with expected input and output that the autograder will give you feedbakc for. Question 9 is also a programming assignment, but is more open-ended and will not be autograded. 
 
-For **Proficiency** credie:
+For **Proficiency** credit:
 
 - Your code should pass all the test cases on Gradescope
 - Your code for question 8 should do what you describe that it does
