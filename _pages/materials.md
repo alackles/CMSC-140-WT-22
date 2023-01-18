@@ -30,8 +30,8 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | Notes | Date |
 | ----- | ------- |
 | [If/Else][notes-wk2-if] | 1/9 |
-| [For and While loops][w2-d2] | 1/1 |
-| [Lists and Dictionaries][w3-d1] | 1/1 |
+| [For and While loops][w2-d2] | 1/11 |
+| [Lists and Dictionaries][w3-d1] | 1/18 |
 
 # Guides
 

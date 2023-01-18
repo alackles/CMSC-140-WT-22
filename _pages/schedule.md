@@ -20,7 +20,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | Th 1/12 | [_Lab: The Collatz Conjecture_][lab-2] | | [HW1][hw-1] |
 | **Week 3** | **More Data Types** | | |
 | M 1/16 | _NO CLASS: MLK Day_ | | |
-| W 1/18 | Lists and Dictionaries | Perusall | |
+| W 1/18 | Lists and Dictionaries ([notes][w3-d1]) | Perusall | |
 | Th 1/19 | _Lab: Review_ | HW1 | HW2 |
 | **Week 4** | **Functions** | | |
 | M 1/23 | Functions pt I: Print and Scope |  Perusall |  |
@@ -72,20 +72,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 
 [notes-wk1-vars]: https://alackles.github.io/CMSC-140-WT-23/lectures/wk1-vars/
 [notes-wk2-if]: https://alackles.github.io/CMSC-140-WT-23/lectures/wk2-if/
-[notes-wk2-loops]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk2-loops/
-[notes-wk3-functions]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk3-functions/
-[notes-wk3-scope]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk3-scope/
-[notes-wk4-imports]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk3-imports/
-[notes-wk4-lists]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk4-lists/
-[notes-wk4-dicts]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk4-dicts/
-[notes-wk5-strings]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk5-strings/
-[notes-wk5-regex]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk5-regex/
-[notes-wk6-pathing]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk6-pathing/
-[notes-wk6-file]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk6-basic-io/
-[notes-wk7-file]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk7-adv-io/
-[notes-wk8-docs]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk8-docs/
-[notes-wk8-mwe]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk8-mwe/
-[notes-wk9-imports2]:https://alackles.github.io/CMSC-140-WT-23/lectures/wk9-imports2/
+[w3-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w3-d1
 
 [survey]: https://forms.gle/iBCowEvcXXYFTmG57
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8
