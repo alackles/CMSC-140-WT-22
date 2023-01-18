@@ -34,6 +34,8 @@ If you're stuck, try breaking the problem into smaller steps. Here are some poss
 > A = [["cat", "bat", "bear"], [1, 5, 6]]
 > ```
 
+> Do you have to use a list index to loop over a list? Can you loop over a list using just the list? 
+
 ## Lecture/Live Coding
 
 ### Lists
