@@ -21,23 +21,28 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 3** | **More Data Types** | | |
 | M 1/16 | _NO CLASS: MLK Day_ | | |
 | W 1/18 | Lists and Dictionaries ([notes][w3-d1]) | Perusall | |
-| Th 1/19 | _Lab: Review_ | HW1 | HW2 |
+| Th 1/19 | [_Lab: Review_][lab-3] | HW1 | |
+| F 1/20 |  | | HW2 |
 | **Week 4** | **Functions** | | |
 | M 1/23 | Functions pt I: Print and Scope |  Perusall |  |
 | W 1/25 | Functions pt II: Return and Import | Perusall | |
-| Th 1/26 | _Lab: Revisit_ | HW2 | HW3 |
+| Th 1/26 | _Lab: Revisit_ | |  |
+| F 1/27 |  | HW2 | HW3 |
 | **Week 5** | **Strings & Pattern Matching** | | |
 | M 1/30 | Strings | Perusall | Middle-of-Term Eval|
 | W 2/1 | Regex  | Perusall |  | 
-| Th 2/2 | _Lab: DNA Sequencing_ | HW3; Middle-of-Term Eval |  HW4 |
+| Th 2/2 | _Lab: DNA Sequencing_ |Middle-of-Term Eval |  |
+| F 2/3 | | HW3 | HW4 |
 | **Week 6** | **Basic File Handling** | | |
 | M 2/6 | Pathing | Perusall; Final Project Proposal | |
-| W 2/8 | File I/O | Perusall; HW4 | | 
-| _Th 2/9_ | _NO LAB: READING PERIOD_ | | HW5|
+| W 2/8 | File I/O | Perusall | | 
+| _Th 2/9_ | _NO LAB: READING PERIOD_ | | |
+| F 2/10 | | HW4 | HW5 |
 | **Week 7** | **Advanced File Handling** | | |
 | M 2/13 | File I/O Cont'd |  | |
 | W 2/15 | Data Visualization | Perusall | |
-| Th 2/16 | _Lab: Heating Up_ | HW5 | |
+| Th 2/16 | _Lab: Heating Up_ | | |
+| F 2/17 | | HW5 | |
 | **Week 8** | **Debugging** | | |
 | M 2/20 | Documentation and Error Handling | | | 
 | W 2/22 | Asking Good Questions  | | |
