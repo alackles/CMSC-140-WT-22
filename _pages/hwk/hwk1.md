@@ -111,7 +111,7 @@ Write a program that does the same as the above, but use a `for` loop.
 
 ### Q7
 
-Write a program that takes in two numbers and counts down from the first number by the second number until you reach 0. Do not print any numbers less than 0. 
+Write a program that takes in two numbers and counts down from the first number by the second number until you reach 0. Do not print any numbers less than or equal to 0. 
 
 Example 1: 
 
@@ -132,7 +132,6 @@ Example 2:
 18
 12
 6
-0
 ```
 
 ### Q8
