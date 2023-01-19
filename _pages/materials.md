@@ -13,6 +13,7 @@ Here you'll find all your homeworks. The final column in this table, _Guaranteed
 | HW Link | Assigned | Due | Guaranteed Feedback |  
 | ------ | ------ | ------ | -------- |
 | [Homework 1][hw-1] | 1/12  | 1/19 | TBD  |
+| [Homework 2][hw-2] | 1/20  | 1/27 | TBD  |
 
 # Labs
 
@@ -67,6 +68,7 @@ _None yet._
 
 
 [hw-1]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk1/
+[hw-2]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk2/
 
 [lab-1]: https://alackles.github.io/CMSC-140-WT-23/labs/lab1/
 [lab-2]: https://alackles.github.io/CMSC-140-WT-23/labs/lab2/

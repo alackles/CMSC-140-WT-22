@@ -22,7 +22,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 1/16 | _NO CLASS: MLK Day_ | | |
 | W 1/18 | Lists and Dictionaries ([notes][w3-d1]) | Perusall | |
 | Th 1/19 | [_Lab: Review_][lab-3] | HW1 | |
-| F 1/20 |  | | HW2 |
+| F 1/20 |  | | [HW2][hw-2] |
 | **Week 4** | **Functions** | | |
 | M 1/23 | Functions pt I: Print and Scope |  Perusall |  |
 | W 1/25 | Functions pt II: Return and Import | Perusall | |
