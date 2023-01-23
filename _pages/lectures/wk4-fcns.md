@@ -10,6 +10,13 @@ View the code for the class on Github [here](https://github.com/alackles/CMSC-14
 
 # Functions (void)
 
+The purpose of this class is to get used to organizing our code into _functions_: basically named blocks of code that we can re-use and do tasks with. 
+
+By the end of this class, you should be able to answer the following:
+- How do you make a new function in Python? 
+- What is a function? How is it different than a script? 
+- What is a local variable vs. a global variable? Why does knowing whether a variable is local or global matter for a python script? 
+
 ## Questions from the Reading
 
 > What if I wanted to use the same local variable in two functions? How would I do that? 
