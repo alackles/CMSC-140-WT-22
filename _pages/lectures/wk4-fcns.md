@@ -12,6 +12,18 @@ View the code for the class on Github [here](https://github.com/alackles/CMSC-14
 
 ## Questions from the Reading
 
+> What if I wanted to use the same local variable in two functions? How would I do that? 
+
+> Can I call a local and global variable the same name?
+
+> How does Python know that a local variable doesn't exist if it is being read line by line in this example?
+> ```python
+> spam = 20
+> def spammer():
+>    print(spam)
+>    spam = 5
+> ```
+> 
 
 ## Lecture/Live Coding
 
