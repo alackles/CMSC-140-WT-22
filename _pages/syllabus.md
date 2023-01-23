@@ -196,7 +196,7 @@ Below is an outline of which assessments match to which learning objectives. Don
 
 **L7: Reading**
 
-For mastery credit, you must **complete the Perusall reading before class** at least 85% of the time. For proficiency credit, you must complete it at least 70% of the time. Fewer than this will earn an Incomplete on this objective.
+For mastery credit, you must **complete the Perusall reading before class** at least 85% of the time. For proficiency credit, you must complete it at least 70% of the time. For novice, you must complete it at least 50% of the time. Fewer than this will earn an Incomplete on this objective.
 
 
 **L8: Reflection**
