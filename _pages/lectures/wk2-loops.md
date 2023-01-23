@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-View the code for the class on Github [here](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/wk2-loops.py).
+Find the code for class [here](https://github.com/alackles/CMSC-140-WT-23/tree/main/_pages/lectures/code).
 
 # Loops
 
