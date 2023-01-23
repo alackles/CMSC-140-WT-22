@@ -24,7 +24,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | Th 1/19 | [_Lab: Review_][lab-3] | HW1 | |
 | F 1/20 |  | | [HW2][hw-2] |
 | **Week 4** | **Functions** | | |
-| M 1/23 | Functions pt I: Print and Scope |  Perusall |  |
+| M 1/23 | Functions pt I: Print and Scope ([notes][w4-d1])|  Perusall |  |
 | W 1/25 | Functions pt II: Return and Import | Perusall | |
 | Th 1/26 | _Lab: Revisit_ | |  |
 | F 1/27 |  | HW2 | HW3 |
@@ -78,6 +78,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [notes-wk1-vars]: https://alackles.github.io/CMSC-140-WT-23/lectures/wk1-vars/
 [notes-wk2-if]: https://alackles.github.io/CMSC-140-WT-23/lectures/wk2-if/
 [w3-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w3-d1
+[w4-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w4-d1
 
 [survey]: https://forms.gle/iBCowEvcXXYFTmG57
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8
