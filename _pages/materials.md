@@ -73,7 +73,7 @@ _None yet._
 
 [lab-1]: https://alackles.github.io/CMSC-140-WT-23/labs/lab1/
 [lab-2]: https://alackles.github.io/CMSC-140-WT-23/labs/lab2/
-[lab-2]: https://alackles.github.io/CMSC-140-WT-23/labs/lab3/
+[lab-3]: https://alackles.github.io/CMSC-140-WT-23/labs/lab3/
 
 
 [notes-wk2-if]: https://alackles.github.io/CMSC-140-WT-23/lectures/wk2-if/

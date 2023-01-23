@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-
+Find the code for class [here](https://github.com/alackles/CMSC-140-WT-23/tree/main/_pages/lectures/code).
 # If/Else
 
 **By the end of the class, you should be able to answer the following:**
