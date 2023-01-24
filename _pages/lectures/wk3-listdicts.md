@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "cog"
 ---
 
-View the code for the class on Github [here](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/lectures/wk3-listdicts.py).
+Find the code for class [here](https://github.com/alackles/CMSC-140-WT-23/tree/main/_pages/lectures/code).
 
 # Loops
 
@@ -211,5 +211,28 @@ name = input("What is your name?")
 print("Your ID number is", student_names[name])
 ```
 
-You _can_ also iterate through every entry in a dictionary, through every key, and through every value. But for now, we are going to think of dictionaries as structures to access data one piece at a time, instead of iteratively. If you just want to iterate, you can probably use a list. 
+You _can_ also iterate through every entry in a dictionary, through every key, and through every value. But for now, we are going to think of dictionaries as structures to access data one piece at a time, instead of iteratively. If you just want to iterate, you can probably use a list.
 
+## Tips for Printing Lists
+
+### Lists of Strings
+
+Printing a list of strings is simple:
+
+```python
+mylist = ["a", "b", "c"]
+joined_list = " ".join(mylist)
+print(joined_list)
+```
+
+### Lists of Ints
+
+Printing a list of ints is a little more complicated, because you want to tell Python that each element should really be considered as a string. You don't have to memorize the following syntax, but you will often use it, so it is here as a reference.
+
+```python
+mylist = [1, 4, 6]
+joined_list = " ".join([str(i) for i in mylist])
+print(joined_list)
+```
+
+The variable _i_ here can be any variable name but must match between the `str(i)` call and the `for i` call. `mylist` must be the name of the list. Note also the double brackets; first [], then (). 
