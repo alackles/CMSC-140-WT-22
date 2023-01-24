@@ -41,6 +41,8 @@ Some general reminders:
 
 ## Q1
 
+**Hint:** See the [tips for printing lists](https://alackles.github.io/CMSC-140-WT-23/lectures/w3-d1#tips-for-printing-lists).
+
 Write a program that takes in 5 numbers and outputs them in sorted order, separated by spaces. 
 
 **Hint:** Store the numbers in a list, and use a sorting function. 
@@ -57,6 +59,8 @@ Example:
 ```
 
 ## Q2 
+
+**Hint:** See the [tips for printing lists](https://alackles.github.io/CMSC-140-WT-23/lectures/w3-d1#tips-for-printing-lists).
 
 Write a program that takes in two numbers and prints every number between them (inclusive) separated by commas. Use `join()` somewhere in your program.
 
@@ -82,6 +86,8 @@ Example
 ```
 
 ## Q4
+
+**Hint:** See the [tips for printing lists](https://alackles.github.io/CMSC-140-WT-23/lectures/w3-d1#tips-for-printing-lists).
 
 Write a program that takes the following list and prints the elements of the list separated by spaces, except for the last element. Do this repeatedly nothing would print, then it should print, "All done!"
 
