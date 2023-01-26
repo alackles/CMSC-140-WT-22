@@ -35,6 +35,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [For and While loops][w2-d2] | 1/11 |
 | [Lists and Dictionaries][w3-d1] | 1/18 |
 | [Functions][w4-d1] | 1/23 |
+| [Functions with Returns][w4-d2] | 1/23 |
 
 # Guides
 

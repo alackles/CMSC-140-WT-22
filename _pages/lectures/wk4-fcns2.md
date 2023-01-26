@@ -1,6 +1,6 @@
 ---
-title: Week 4 Day 1 - Functions with Returns
-permalink: /lectures/w4-d1
+title: Week 4 Day 2 - Functions with Returns
+permalink: /lectures/w4-d2
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
