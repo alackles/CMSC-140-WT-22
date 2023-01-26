@@ -81,3 +81,4 @@ _None yet._
 [w2-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/wk2-loops/
 [w3-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w3-d1
 [w4-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w4-d1
+[w4-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w4-d2
