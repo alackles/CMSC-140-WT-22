@@ -14,6 +14,7 @@ Here you'll find all your homeworks. The final column in this table, _Guaranteed
 | ------ | ------ | ------ | -------- |
 | [Homework 1][hw-1] | 1/12  | 1/19 | TBD  |
 | [Homework 2][hw-2] | 1/20  | 1/27 | TBD  |
+| [Homework 3][hw-3] | 1/27 | 2/3 | TBD  |
 
 # Labs
 

@@ -27,7 +27,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 1/23 | Functions pt I: Print and Scope ([notes][w4-d1])|  Perusall |  |
 | W 1/25 | Functions pt II: Return and Import ([notes][w4-d2]) | Perusall | |
 | Th 1/26 | _Lab: Revisit_ | |  |
-| F 1/27 |  | HW2 | HW3 |
+| F 1/27 |  | HW2 | [HW3][hw-3] |
 | **Week 5** | **Strings & Pattern Matching** | | |
 | M 1/30 | Strings | Perusall | Middle-of-Term Eval|
 | W 2/1 | Regex  | Perusall |  | 
