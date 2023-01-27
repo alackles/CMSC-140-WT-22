@@ -72,6 +72,7 @@ _None yet._
 
 [hw-1]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk1/
 [hw-2]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk2/
+[hw-3]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk3/
 
 [lab-1]: https://alackles.github.io/CMSC-140-WT-23/labs/lab1/
 [lab-2]: https://alackles.github.io/CMSC-140-WT-23/labs/lab2/
