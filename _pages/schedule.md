@@ -29,9 +29,9 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | Th 1/26 | _Lab: Revisit_ | |  |
 | F 1/27 |  | HW2 | [HW3][hw-3] |
 | **Week 5** | **Strings & Pattern Matching** | | |
-| M 1/30 | Strings | Perusall | Middle-of-Term Eval|
+| M 1/30 | Strings ([notes][w5-d1]) | Perusall | Middle-of-Term Eval|
 | W 2/1 | Regex  | Perusall |  | 
-| Th 2/2 | _Lab: DNA Sequencing_ |Middle-of-Term Eval |  |
+| Th 2/2 | _Lab: DNA Sequencing_ | Middle-of-Term Eval |  |
 | F 2/3 | | HW3 | HW4 |
 | **Week 6** | **Basic File Handling** | | |
 | M 2/6 | Pathing | Perusall; Final Project Proposal | |
@@ -80,6 +80,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w3-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w3-d1
 [w4-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w4-d1
 [w4-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w4-d2
+[w5-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w5-d1
 
 [survey]: https://forms.gle/iBCowEvcXXYFTmG57
 [mid-eval]: https://forms.gle/fqZHa3oJBHAAtmHa8

@@ -12,7 +12,7 @@ Here you'll find all your homeworks. The final column in this table, _Guaranteed
 
 | HW Link | Assigned | Due | Guaranteed Feedback |  
 | ------ | ------ | ------ | -------- |
-| [Homework 1][hw-1] | 1/12  | 1/19 | TBD  |
+| [Homework 1][hw-1] | 1/12  | 1/19 | 1/27  |
 | [Homework 2][hw-2] | 1/20  | 1/27 | TBD  |
 | [Homework 3][hw-3] | 1/27 | 2/3 | TBD  |
 
@@ -37,6 +37,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [Lists and Dictionaries][w3-d1] | 1/18 |
 | [Functions][w4-d1] | 1/23 |
 | [Functions with Returns][w4-d2] | 1/23 |
+| [Strings][w5-d1] | 1/30 |
 
 # Guides
 
@@ -84,3 +85,4 @@ _None yet._
 [w3-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w3-d1
 [w4-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w4-d1
 [w4-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w4-d2
+[w5-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w5-d1

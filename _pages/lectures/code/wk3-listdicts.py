@@ -53,7 +53,7 @@ my_dict = {
 a = my_dict["hello"]
 print(a)
 
-student_names = { 
+student_dict = { 
     "Acacia": 2830084,
     "Kurt": 1919182,
     "Joe": 89483929,
@@ -61,10 +61,15 @@ student_names = {
 
 student_names = [["Acacia", 2830084], ["Kurt", 1919182]]
 name = input("What is your name?")
-print("Your ID number is", student_names[name])
+print("Your ID number is", student_dict[name])
 
 
 nums = [1, 3, 4, 8]
 for index, i in enumerate(nums):
     a = i**2
     print(index, ":", "square of", i, "is", a)
+
+# Iterating over keys in a dictionary
+
+
+# Iterating over values in a dictionary
