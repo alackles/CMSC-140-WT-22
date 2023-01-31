@@ -13,7 +13,7 @@ Here you'll find all your homeworks. The final column in this table, _Guaranteed
 | HW Link | Assigned | Due | Guaranteed Feedback |  
 | ------ | ------ | ------ | -------- |
 | [Homework 1][hw-1] | 1/12  | 1/19 | 1/27  |
-| [Homework 2][hw-2] | 1/20  | 1/27 | TBD  |
+| [Homework 2][hw-2] | 1/20  | 1/27 | 2/7  |
 | [Homework 3][hw-3] | 1/27 | 2/3 | TBD  |
 
 # Labs
@@ -24,7 +24,7 @@ Labs will be made available before class. Each lab will have to be turned in on 
 | ------ | ------ | ------ |
 | [Lab 1][lab-1] | 1/5 | N/A |
 | [Lab 2][lab-2] | 1/12 | 1/24 |
-| [Lab 3][lab-3] | 1/19 | TBD |
+| [Lab 3][lab-3] | 1/19 | 2/7 |
 
 # Lecture Notes
 
