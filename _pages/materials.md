@@ -38,6 +38,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [Functions][w4-d1] | 1/23 |
 | [Functions with Returns][w4-d2] | 1/23 |
 | [Strings][w5-d1] | 1/30 |
+| [Regex][w5-d2] | 2/1 |
 
 # Guides
 
