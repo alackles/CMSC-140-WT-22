@@ -226,6 +226,15 @@ cool_string = "ooooo~Hello this is my string~ooooooo"
 print(cool_string.strip('o'))
 ```
 
+## startswith and endswith
+
+In addition to `in`, you can check specifically if a string starts or ends with another string. 
+
+```py
+"acacia.ackles@lawrence.edu".endswith("lawrence.edu") # returns True
+"hello".startswith("H") # returns False
+```
+
 
 # In-Class Exercises
 
