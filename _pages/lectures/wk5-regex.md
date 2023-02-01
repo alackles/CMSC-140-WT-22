@@ -1,6 +1,6 @@
 ---
 title: Week 5 Day 2 - Regex
-permalink: /lectures/wk5-regex/
+permalink: /lectures/wk5-d2
 toc: true
 toc_label: "table of contents"
 toc_icon: "cog"
