@@ -30,7 +30,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | F 1/27 |  | HW2 | [HW3][hw-3] |
 | **Week 5** | **Strings & Pattern Matching** | | |
 | M 1/30 | Strings ([notes][w5-d1]) | Perusall | [Middle-of-Term Eval][mid-eval] |
-| W 2/1 | Regex  | Perusall |  | 
+| W 2/1 | Regex  ([notes][w5-d2]) | Perusall  |  | 
 | Th 2/2 | _Lab: Final Project Discussion_ | Middle-of-Term Eval |  |
 | F 2/3 | | HW3 | HW4 |
 | **Week 6** | **Basic File Handling** | | |
@@ -81,6 +81,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w4-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w4-d1
 [w4-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w4-d2
 [w5-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w5-d1
+[w5-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w5-d2
 
 [survey]: https://forms.gle/iBCowEvcXXYFTmG57
 [mid-eval]: https://forms.gle/2qS7zFEqw4GxxRDSA

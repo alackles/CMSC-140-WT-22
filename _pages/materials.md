@@ -87,3 +87,4 @@ _None yet._
 [w4-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w4-d1
 [w4-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w4-d2
 [w5-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w5-d1
+[w5-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w5-d2
