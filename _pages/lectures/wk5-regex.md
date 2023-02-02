@@ -6,7 +6,6 @@ toc_label: "table of contents"
 toc_icon: "cog"
 ---
 
-
 Regular Expressions is a deep topic in computer science and in programming. Regex is not something I'm going to be able to teach you right off the bat! It's not something I always remember exactly how to do. But it's something I want to introduce you to so that when we start reading in strings from files next week, it'll be a tool in your toolbox. 
 
 **I do not recommend using these lecture notes as a reference for regular expressions.** There are many, many, MANY better and more complete references out there, including the two linked below. 

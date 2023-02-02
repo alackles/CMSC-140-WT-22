@@ -56,3 +56,33 @@ if 5 not in my_list:
 if "Lee" in name:
     print("Middle name found")
 
+space_string = "  \t     Hello   \n   "
+print(space_string)
+print(space_string.strip()) # not in-place! this is a new string!
+print(space_string)
+print("Lstrip:")
+print(space_string.lstrip()) # from the left
+print("Rstrip:")
+print(space_string.rstrip()) # from the right
+
+cool_string = "~~~~~~hello~~~~~~~"
+print(cool_string)
+print(cool_string.strip("~"))
+print(cool_string.strip("el"))
+
+example_string = "JoyJoyJoySad_oJ"
+print(example_string.strip("Joy"))
+"\n" # newline
+"\r" # return
+
+sentence = "Let's get rid of whitespace"
+new_sentence = "".join(sentence.split(" "))
+print(new_sentence)
+
+check_email = "acacia.ackles@lawrence.edu".endswith(".edu")
+check_name = "acacia.ackles@lawrence.edu".startswith("katie")
+print(check_email)
+print(check_name)
+
+if check_email:
+    print("This is an educational address")

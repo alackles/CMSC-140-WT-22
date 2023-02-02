@@ -34,8 +34,8 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | Th 2/2 | _Lab: Final Project Discussion_ | Middle-of-Term Eval |  |
 | F 2/3 | | HW3 | HW4 |
 | **Week 6** | **Basic File Handling** | | |
-| M 2/6 | Pathing | Perusall; Final Project Proposal | |
-| W 2/8 | File I/O | Perusall | | 
+| M 2/6 | Pathing | Perusall | |
+| W 2/8 | File I/O | Perusall; Final Project Proposal | | 
 | _Th 2/9_ | _NO LAB: READING PERIOD_ | | |
 | F 2/10 | | HW4 | HW5 |
 | **Week 7** | **Advanced File Handling** | | |

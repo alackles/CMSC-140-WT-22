@@ -13,13 +13,13 @@ Your final project for this course is either a game or visualization that shows 
 
 | Date | Milestone |
 | ----- | ------ |
-| 2/6 | Proposal Due |
+| 2/8 | Proposal Due |
 | 2/23 | Rough Draft Due |
 | 3/2 | Peer Feedback Due |
 | 3/9 | Last due date for feedback on project |
 | 3/15 by 5:30 PM | Final Draft & Reflection Due | 
 
-At any point between these deadlines please feel free to come see me to get additional feedback on your final project, so long as it is before the final feedback date (11/18).
+At any point between these deadlines please feel free to come see me to get additional feedback on your final project, so long as it is before the final feedback date (3/9).
 ## Guidelines
 
 The final project is meant to be a culmination of _all_ of the skills you have learned in this course, so that in the future you can quickly and easily demonstrate the skills you have mastered by presenting this project. Therefore, your project should contain all of the following:
@@ -28,11 +28,11 @@ The final project is meant to be a culmination of _all_ of the skills you have l
    - Conditional statements and loops
    - Functions you have written yourself
    - Some data storage structure (lists, tuples, dictionaries)
-- **L2: Data Processing**: Your project should process either external files or user input, ideally both.
+- **L2: Data Processing**: Your project should process both external files and user input.
 - **L3: Debugging**: Your program should be free of errors, and should handle user-input errors gracefully (e.g. with a message).
 - **L4: Style**: Your program should be well-commented and use organized functions. 
-- **L5: Code Review**: You will be asked to give peer feedback to your classmates' projects; you should complete this peer feedback for credit.
-- **L6: Collaboration**: Your project should be uploaded to GitHub, where you should be able to see changes between the draft and final version. 
+- **L5: Code Review**: You will be asked to give peer feedback to your classmates' projects; you should complete this peer feedback for credit. 
+- **L6: Collaboration**: Your project should be uploaded to GitHub, where you should be able to see changes between the draft and final version.
 - **L7: Reading**: You should have a `.README` file in your repository that explains what your project does and how you created it.
 - **L8: Reflection**: You will be asked to submit a final reflection with your project. 
 
@@ -73,43 +73,20 @@ Below is an example:
 
 > For my project, I am going to create a "hot or cold" style game where people will have 10 chances to guess a US state. They will first put in a state name as a guess. Then if they are wrong the program will tell them if they are "Freezing", "Cold", "Warm", or "Hot". When they're right the program will say "Congratulations!" and print out a picture of the state. For this project I don't think I'll need any external packages but I will need some pictures or ASCII templates of the states. I also need some way to tell how far their guess is from the state that is the right answer so I can figure out whether it's hot or cold. I need some help figuring out how to measure that distance.
 
+**I will only accept late proposals up to Monday, 2/13**. If you need an extension beyond this, you **must** contact me or you will get an "Incomplete" for this assignment.
+
 ### Specifications: Draft 
 
-The project draft should be as close to your final project as you can manage, as this is what will provide you with the best peer feedback. However, you will earn Mastery credit for just submitting the draft.
+The project draft does not have to be a completed version of your project, but you will only receive peer feedback on what you submit. 
+
+**This must be turned in on time (before lab on Thursday, February 23).** Note that this cannot be turned in late because your peers must have ample time to submit their peer reviews. If 
 
 ## Specifications: Peer Review
 
-You will be asked to review two of your classmates' project drafts and give feedback on their design and implementation. A specific feedback rubric will be provided for you (and posted here) at that time.
+You will be asked to review two of your classmates' project drafts and give feedback on their design and implementation. This will come in the form of a **pull request on GitHub**. A specific feedback rubric will be provided for you (and posted here) at that time.
 
-For **Proficiency** credit, you must do the following for **each** project assigned to you.
+**This must be completed on time (before lab on Thursday, March 2).** Note that this cannot be turned in late because your peers must have ample time to revise their projects given your feedback
 
-- Download your classmates' code to your own computer and run it
-    - To show you have done this, paste in the output into a `.txt` file to resubmit with your reviews
-- Give some feedback on your classmates' code using the following rubric.**For each rating, give a short (1 sentence) justification.**
-
-Learning Objective | (N)ovice | (P)roficient | (M)astery | IC 
------ | ------| -------| ------| -----
-L1: Basics | Project is missing at least one of: conditionals, loops, functions, data storage | Project has all of the basic structures, but may not be using them correctly (e.g. the `if` statements don't do what they're intended to) | Project is using each of the basic structural components well and efficiently | Not present
-L2: Data Processing | Project tries to take user input or a file input, but does not work | Project takes either user input or file input in a basic way | Project concisely handles user input with input("Message") and/or uses Path for external files | Not present
-L3: Debugging | Project handles user input with some basic checking but invalid input immediately ends the program | Project handles user input with if/else | Project handles user input with try/except | Project has obvious errors upon running
-L4: Style | Project has good variable names, but no clear organization into functions and no comments | Project has some organization and some good variable names but could be improved with better commenting or putting routines into functions | Project has good comments and descriptive variable names | Project has no comments and is difficult to read due to poor naming/spacing
-
-If one of these doesn't fit the project you're looking at exactly, make your best guess. 
-
-
-For **Mastery** credit, you should also write some additional substantive qualitative comments along with your ratings and justifications. Try to give at least **one** compliment and at least **one** suggestion for improvement.
-
-To turn in your peer reviews, format your comments in a `.txt` file as in the following example:
-
-```
-SCORES
-L1: N - i didn't see any functions being used but had loops and if/else statements used well 
-L2: N - project takes one number as input from the user
-L3: P - used try/except to check if there is an integer input
-L4: N - no functions and variables are named like "a" "b" "c"
-
-I thought you did a good job of handling possible bad inputs to your function by using try/except to check if something is an integer. One thing that might be an improvement on your project is sometimes you are using a dictionary to just iterate over values as the keys. You could probably use a list instead for this.
-```
 ## Reflection
 
 Your final reflection is a reflection of both your project and the course. It is a short piece of writing that gives you room to reflect on your intro programming journey.
