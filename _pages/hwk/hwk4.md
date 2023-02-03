@@ -1,6 +1,6 @@
 ---
 title: Homework 4 - Strings
-permalink: /hwk/hwk4
+permalink: /hwk/hwk4/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
