@@ -18,6 +18,9 @@ For **Proficiency** credit:
 - Your code for question 8 should do what you describe that it does
 
 For **Mastery** credit:
+
+Everything for proficiency, plus
+
 - Your code should be well-organized with good and informative variable names
 - Your code should have consistent spacing
 

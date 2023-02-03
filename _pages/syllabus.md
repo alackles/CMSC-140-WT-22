@@ -134,7 +134,8 @@ You will have three different kinds of assessments:
 
 **Homework** and **Labs** will be turned in to **Gradescope**.
 
-Your final project will be uploaded to your GitHub as a repository. We will set up your github in the first week of class.
+Your final project will be uploaded to your GitHub as a repository. 
+
 ### Mastery-Based Grading Scheme
 
 My goal for you this semester is that you come away as both a stronger programmer and a stronger learner. This course uses a version of _ungrading_ or _mastery-based grading_. Rather than assigning point values to homework, quizzes, or projects, all assessments will be graded on a mastery scale:
@@ -151,8 +152,6 @@ My goal for you this semester is that you come away as both a stronger programme
 
 ### Learning Objectives
 
-Each assessment you complete (homework, labs, projects) will have associated learning objectives (see HW1 for an example). You'll have at least 4 chances to demonstrate mastery of each learning objective. 
-
 For each learning objective, you'll receive a grade on the same mastery scale as each individual assessment.
 
 **Learning Objective Scale**
@@ -160,50 +159,18 @@ For each learning objective, you'll receive a grade on the same mastery scale as
 |  | | |
 | ------ | ------- | ------ |
 | **M** | Mastery | Demonstrates mastery on all of the associated assessments |
-| **P** | Proficient | Demonstrates mastery on 75% or more of all associated assignments, and proficiency in remaining |
-| **N** | Novice | Demonstrates mastery on 50% or more of all associated assessments OR has "Novice" work on ANY assignment |
+| **P** | Proficient | Demonstrates mastery on ~75% or more of all associated assignments, and proficiency in remaining |
+| **N** | Novice | Demonstrates mastery on ~50% or more of all associated assessments OR has "Novice" work on ANY assignment |
 | **IC** | Incomplete | Has not demonstrated mastery on at least 50% of assignments for that objective |
 
-Below is an outline of which assessments match to which learning objectives. Don't worry; as the semester goes on, I'll keep a tally for you of how you're doing on each (and you can always ask)
+Below is an outline of which assessments match to which learning objectives. Don't worry; as the semester goes on, I'll keep a tally for you of how you're doing on each (and you can always ask). 
 
-**L1: Basics** 
-- All Homeworks (HW1-HW5)
-- All Labs (LAB1-LAB7)
+![guide to grades](/CMSC-150-WT-23/assets/img/grade-guide.png)
 
-**L2: Data Processing** 
-- Lab 2: Collatz Conjecture
-- Lab 5: DNA Sequencing
-- Lab 7: Heating Up
-
-**L3: Debugging** 
-- HW5 
-- Lab 8: Debug Challenge
-- Revision of any homework where you did _not_ earn mastery credit
-
-**L4: Style** 
-- All Homeworks (HW1-HW5)
-- LAB2-LAB6
-
-**L5: Code Review** 
- - Homework 3
- - Lab 8: Debug Challenge
- - Final Project Peer Review
-
-**L6: Collaboration** 
-- Lab 1: Python Setup
-- Final Project Draft
-- Final Project Peer Review
-
-**L7: Reading**
-
-For mastery credit, you must **complete the Perusall reading before class** at least 85% of the time. For proficiency credit, you must complete it at least 70% of the time. For novice, you must complete it at least 50% of the time. Fewer than this will earn an Incomplete on this objective.
+You can also keep your own tally; [here is a link to a google drive version of this guide](https://docs.google.com/document/d/1VyTHJk3z9zEM8Vb_dEJgKVVtndMDHM6aUMpl-GTp7Ak/edit?usp=sharing). You can make your own editable version by going to `File > Make a Copy` and selecting the folder you want to save it to. You can also save it to your computer as-is by going to `File > Download`.
 
 
-**L8: Reflection**
-
-For mastery credit you must complete revisions of **any three assessments**. These assessments can even be ones you already earned mastery credit for the first time around. (Work not turned in/marked "Incomplete" does not count.) There's always something to tweak or try differently next time! 2/3 will earn a Proficiency. Lower than that earns an Incomplete on this objective.
-
-### Gradebook
+## Gradebook
 
 This will translate to the gradebook as follows:
 

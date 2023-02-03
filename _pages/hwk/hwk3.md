@@ -10,7 +10,8 @@ For homework 3, you will be turning five of your previous homework questions int
 
 For **Proficiency** credit:
 
-- Your code should pass all the test cases on Gradescope. You should have something written for the written response that addresses the question.
+- Your code should pass all the test cases on Gradescope. 
+- You should have something written for the written response that addresses the question.
 
 For **Mastery** credit:
 

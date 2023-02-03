@@ -32,7 +32,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 1/30 | Strings ([notes][w5-d1]) | Perusall | [Middle-of-Term Eval][mid-eval] |
 | W 2/1 | Regex  ([notes][w5-d2]) | Perusall  |  | 
 | Th 2/2 | _Lab: Final Project Discussion_ | Middle-of-Term Eval |  |
-| F 2/3 | | HW3 | HW4 |
+| F 2/3 | | HW3 | [HW4][hw-4] |
 | **Week 6** | **Basic File Handling** | | |
 | M 2/6 | Pathing | Perusall | |
 | W 2/8 | File I/O | Perusall; Final Project Proposal | | 
