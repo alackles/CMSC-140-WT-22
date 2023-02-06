@@ -165,7 +165,7 @@ For each learning objective, you'll receive a grade on the same mastery scale as
 
 Below is an outline of which assessments match to which learning objectives. Don't worry; as the semester goes on, I'll keep a tally for you of how you're doing on each (and you can always ask). 
 
-![guide to grades](/CMSC-140-WT-23/assets/img/CMSC140-LO-guide.pdf)
+![guide to grades](/CMSC-140-WT-23/assets/img/CMSC140-LO-guide-1.png)
 
 You can also keep your own tally; [here is a link to a google drive version of this guide](https://docs.google.com/document/d/10h9duQ7TfhE1n-fw_KMpR0VrOyLZRDFXbJ1JmNk9yIA/edit?usp=sharing). You can make your own editable version by going to `File > Make a Copy` and selecting the folder you want to save it to. You can also save it to your computer as-is by going to `File > Download`.
 
