@@ -40,6 +40,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [Functions with Returns][w4-d2] | 1/23 |
 | [Strings][w5-d1] | 1/30 |
 | [Regex][w5-d2] | 2/1 |
+| [Pathing][w6-d1] | 2/6 |
 
 # Guides
 
@@ -90,3 +91,4 @@ _None yet._
 [w4-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w4-d2
 [w5-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w5-d1
 [w5-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w5-d2
+[w6-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w6-d1

@@ -34,7 +34,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | Th 2/2 | _Lab: Final Project Discussion_ | Middle-of-Term Eval |  |
 | F 2/3 | | HW3 | [HW4][hw-4] |
 | **Week 6** | **Basic File Handling** | | |
-| M 2/6 | Pathing | Perusall | |
+| M 2/6 | Pathing ([notes][w6-d1]) | Perusall | |
 | W 2/8 | File I/O | Perusall; Final Project Proposal | | 
 | _Th 2/9_ | _NO LAB: READING PERIOD_ | | |
 | F 2/10 | | HW4 | HW5 |
@@ -82,6 +82,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w4-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w4-d2
 [w5-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w5-d1
 [w5-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w5-d2
+[w6-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w6-d1
 
 [survey]: https://forms.gle/iBCowEvcXXYFTmG57
 [mid-eval]: https://forms.gle/2qS7zFEqw4GxxRDSA
