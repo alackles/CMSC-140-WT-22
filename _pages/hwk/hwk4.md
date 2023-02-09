@@ -30,6 +30,8 @@ You will be given an integer `n`, followed by `n` words, each on their own line.
 1. How many duplicate words there are
 2. What the duplicate words were, in alphabetical order
 
+Here, a _duplicate_ is any word repeated twice or more.
+
 Importantly, words that are capitalized differently should be considered to be the same word and treated accordingly. The duplicate words should be output in alphabetical order.
 
 Example input:
@@ -40,6 +42,7 @@ apple
 zebra
 Bear
 ZEBRA
+Zebra
 bear
 ```
 
