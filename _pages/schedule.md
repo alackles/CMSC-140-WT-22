@@ -39,16 +39,16 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | _Th 2/9_ | _NO LAB: READING PERIOD_ | | |
 | F 2/10 | | HW4 | HW5 |
 | **Week 7** | **Advanced File Handling** | | |
-| M 2/13 | Data Visualization | Perusall | |
-| W 2/15 | Git and GitHub | Perusall | |
+| M 2/13 | File I/O cont'd | Perusall | |
+| W 2/15 | Git and GitHub | | |
 | Th 2/16 | _Lab 4: DNA Sequencing_ | | |
 | F 2/17 | | HW5 | |
-| **Week 8** | **Debugging** | | |
-| M 2/20 | Documentation and Error Handling | | | 
-| W 2/22 | Asking Good Questions  | | |
+| **Week 8** | **Revisiting Previous Topics** | | |
+| M 2/20 | Review: Flow Control + Input Handling | Perusall (optional) | | 
+| W 2/22 | Review: Data Structures + Data Processing  | Perusall (optional) | |
 | Th 2/23 | _Lab 5: Debug Challenge_  | Final Project Draft | Final Project Peer Comments
 | **Week 9** | **Bonus Content** | | | 
-| M 2/27 | TBD: Student Choice | | |
+| M 2/27 | Asking Good Questions | | |
 | W 3/1 | TBD: Student Choice | | |
 | Th 3/2 | Final Project Revisions | Final Project Peer Comments |
 | **Week 10** | **Final Project & Course Wrap-Up** | | |
