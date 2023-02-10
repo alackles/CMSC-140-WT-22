@@ -14,8 +14,9 @@ Here you'll find all your homeworks. The final column in this table, _Guaranteed
 | ------ | ------ | ------ | -------- |
 | [Homework 1][hw-1] | 1/12  | 1/19 | 1/27  |
 | [Homework 2][hw-2] | 1/20  | 1/27 | 2/7  |
-| [Homework 3][hw-3] | 1/27 | 2/3 | TBD  |
+| [Homework 3][hw-3] | 1/27 | 2/3 | 2/17  |
 | [Homework 4][hw-4] | 2/3 | 2/10 | TBD  |
+| [Homework 5][hw-5] | 2/10 | 2/17 | TBD  |
 
 # Labs
 
@@ -79,6 +80,7 @@ _None yet._
 [hw-2]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk2/
 [hw-3]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk3/
 [hw-4]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk4/
+[hw-5]: https://alackles.github.io/CMSC-140-WT-23/hwk/hwk5/
 
 [lab-1]: https://alackles.github.io/CMSC-140-WT-23/labs/lab1/
 [lab-2]: https://alackles.github.io/CMSC-140-WT-23/labs/lab2/

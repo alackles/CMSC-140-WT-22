@@ -37,7 +37,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | M 2/6 | Pathing ([notes][w6-d1]) | Perusall | |
 | W 2/8 | File I/O ([notes][w6-d2]) | Perusall; Final Project Proposal | | 
 | _Th 2/9_ | _NO LAB: READING PERIOD_ | | |
-| F 2/10 | | HW4 | HW5 |
+| F 2/10 | | HW4 | [HW5][hw-5] |
 | **Week 7** | **Advanced File Handling** | | |
 | M 2/13 | File I/O cont'd | Perusall | |
 | W 2/15 | Git and GitHub | | |
