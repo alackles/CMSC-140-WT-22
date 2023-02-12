@@ -22,7 +22,7 @@ For **mastery** credit, you should have _comments_ indicating all the changes yo
 
 ## Homework: `grades.py`
 
-Download and unzip [this zip file](https://github.com/alackles/CMSC-140-FS-22/blob/main/_pages/hwk/hwk5.zip) containing some fake student data and some code that is supposed to output a report of which students are passing and failing the class. 
+Download and unzip [this zip file](https://github.com/alackles/CMSC-140-WT-23/blob/main/_pages/hwk/) containing some fake student data and some code that is supposed to output a report of which students are passing and failing the class. 
 
 However, the code is broken; some of the errors are logical, others are typos. It is your job to fix this code using any outside resources you wish. 
 
