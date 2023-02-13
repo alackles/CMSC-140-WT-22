@@ -43,6 +43,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [Regex][w5-d2] | 2/1 |
 | [Pathing][w6-d1] | 2/6 |
 | [File I/O][w6-d2] | 2/8 |
+| [File I/O cont'd][w7-d1] | 2/13 |
 
 # Guides
 
@@ -96,3 +97,4 @@ _None yet._
 [w5-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w5-d2
 [w6-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w6-d1
 [w6-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w6-d2
+[w7-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w7-d1
