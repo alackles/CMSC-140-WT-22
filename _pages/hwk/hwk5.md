@@ -12,7 +12,7 @@ The puprose of this homework is to get some practice with file input and output 
 
 Turn in your **fixed Python script** to Gradescope; no need to upload the input or output files. 
 
-Make sure to follow the [collaboration policy][collab] for all homework.
+Make sure to follow the collaboration policy for all homework.
 
 ## Assessment
 
