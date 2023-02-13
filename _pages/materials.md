@@ -55,6 +55,27 @@ Guides to installation practices or supplementary materials will be listed here.
 
 [PyGame: 4 - 9](https://makingagameofit.github.io/lessons/)
 
+# Video Review
+
+## Amigoscode
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LzYNWme1W6Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+An all-in-one video with timestamps in the comment for Python programming.
+
+## CS Dojo
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1Yd7upQsXY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+General Python information, as well as other content on his channel!
+
+## Clever Programmer
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4F2m91eKmts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Another all-in-one video; kind of more of a traditional "Youtuber" style.
+
+
 # Additional Practice
 
 Here are resources  for additional practice, each with solutions. These are available if you want to try them; there's no need to submit them.
