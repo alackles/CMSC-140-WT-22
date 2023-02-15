@@ -68,7 +68,7 @@ If you'd like a visual representation of what is happening here, here is a diagr
 ## Adding Code to the Repo
 This next part of the lab will involve you editing code in your repository.
 
-1. Find some code you wrote for a previous lab and add that to your repository (copy the `.java` file into the repository folder).
+1. Find some code you wrote for a previous lab and add that to your repository (copy the `.py` file into the repository folder).
 2. Run `git status`to confirm that git notices the presence of the project.cpp file.
 3. Run `git add example.py` (be sure to **use the actual name for the file**) and then `git commit -m "example added"` to add and commit your example file.
 
