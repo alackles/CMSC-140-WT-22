@@ -21,8 +21,6 @@ Make a free account on <a href="https://github.com/">GitHub.com</a>.
 Then complete the introductory tutorial named  <a href="https://guides.github.com/activities/hello-world/">"Read the Guide"</a>.
 In this tutorial, you will make a public repository. You can give it a fun name if you like.
 
-⭐ Raise your hand to show me the merged pull request as directed by the tutorial
-
 ## Collaboration
 
 * Find your partner's newly created repository on GitHub.
@@ -71,10 +69,6 @@ This next part of the lab will involve you editing code in your repository.
 1. Find some code you wrote for a previous lab and add that to your repository (copy the `.py` file into the repository folder).
 2. Run `git status`to confirm that git notices the presence of the project.cpp file.
 3. Run `git add example.py` (be sure to **use the actual name for the file**) and then `git commit -m "example added"` to add and commit your example file.
-
-⭐ Show me your code and the git log in your local repository.
-
-**To turn in the lab, submit a link to your github account on Canvas under Lab 4.**
 
 ## Git Problems?
 `git` is a complicated program with many working parts. 
