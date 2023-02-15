@@ -40,7 +40,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | F 2/10 | | HW4 | [HW5][hw-5] |
 | **Week 7** | **Advanced File Handling** | | |
 | M 2/13 | File I/O cont'd ([notes][w7-d1]) | Perusall | |
-| W 2/15 | Git and GitHub | | |
+| W 2/15 | Git and GitHub ([notes][w7-d2]) | | |
 | Th 2/16 | _Lab 4: DNA Sequencing_ | | |
 | F 2/17 | | HW5 | |
 | **Week 8** | **Revisiting Previous Topics** | | |
@@ -85,6 +85,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w6-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w6-d1
 [w6-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w6-d2
 [w7-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w7-d1
+[w7-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w7-d2
 
 [survey]: https://forms.gle/iBCowEvcXXYFTmG57
 [mid-eval]: https://forms.gle/2qS7zFEqw4GxxRDSA

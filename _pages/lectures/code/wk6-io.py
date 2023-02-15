@@ -12,7 +12,7 @@ print(doc_path)
 print(python_path)
 
 
-hello = open("hello.txt")
+hello = open("data/hello.txt")
 print(hello)
 #file_contents = hello.read()
 #print(file_contents)
