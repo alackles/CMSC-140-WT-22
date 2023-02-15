@@ -56,7 +56,7 @@ home_path = Path(home_dir)
 You can add to this homedir path with a forward slash:
 
 ```py
-new_path = home_path / Documents
+new_path = home_path / "Documents"
 ```
 
 But at least one of the objects here must be a Path object. 
