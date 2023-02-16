@@ -1,6 +1,6 @@
 ---
 title: Lab 5 - DNA Sequencing
-permalink: /labs/lab5/
+permalink: /labs/lab4/
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "cog"
