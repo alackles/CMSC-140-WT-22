@@ -41,7 +41,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | **Week 7** | **Advanced File Handling** | | |
 | M 2/13 | File I/O cont'd ([notes][w7-d1]) | Perusall | |
 | W 2/15 | Git and GitHub ([notes][w7-d2]) | | |
-| Th 2/16 | _Lab 4: DNA Sequencing_ | | |
+| Th 2/16 | [_Lab 4: DNA Sequencing_][lab-4] | | |
 | F 2/17 | | HW5 | |
 | **Week 8** | **Revisiting Previous Topics** | | |
 | M 2/20 | Review: Flow Control + Input Handling | Perusall (optional) | | 

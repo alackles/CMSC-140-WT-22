@@ -70,7 +70,7 @@ Example:
 ```py
 from pathlib import Path
 path_to_proj = "home/acacia/Documents/teaching/AY-22-23/fall/CMSC140/"
-base_path = Path(path_to_proj)
+base_path = Path(path_to_proj)432
 pages_path = base_path / "_pages"
 syllabus = base_path / "syllabus.md"
 hwk_path = pages_path / "hwk"
