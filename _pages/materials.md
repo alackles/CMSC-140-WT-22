@@ -46,6 +46,7 @@ Lecture notes will be posted the day of class and may be edited afterwards to re
 | [File I/O][w6-d2] | 2/8 |
 | [File I/O cont'd][w7-d1] | 2/13 |
 | [Git and GitHub][w7-d2] | 2/15 |
+| [Review - Control Flow and Inputs][w8-d1] | 2/20 |
 
 # Guides
 
@@ -123,3 +124,4 @@ _None yet._
 [w6-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w6-d2
 [w7-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w7-d1
 [w7-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w7-d2
+[w8-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w8-d1

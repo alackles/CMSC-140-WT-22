@@ -44,7 +44,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | Th 2/16 | [_Lab 4: DNA Sequencing_][lab-4] | | |
 | F 2/17 | | HW5 | |
 | **Week 8** | **Revisiting Previous Topics** | | |
-| M 2/20 | Review: Flow Control + Input Handling | Perusall (optional) | | 
+| M 2/20 | Review: Flow Control + Input Handling ([notes][w8-d1]) | Perusall (optional) | | 
 | W 2/22 | Review: Data Structures + Data Processing  | Perusall (optional) | |
 | Th 2/23 | _Lab 5: Debug Challenge_  | Final Project Draft | Final Project Peer Comments
 | **Week 9** | **Bonus Content** | | | 
