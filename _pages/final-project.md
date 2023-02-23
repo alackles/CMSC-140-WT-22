@@ -79,8 +79,14 @@ Below is an example:
 
 The project draft does not have to be a completed version of your project, but you will only receive peer feedback on what you submit. 
 
-**This must be turned in on time (before lab on Thursday, February 23).** Note that this cannot be turned in late because your peers must have ample time to submit their peer reviews. If 
+**This must be turned in on time (end of the day Thursday, February 23).** Note that this cannot be turned in late because your peers must have ample time to submit their peer reviews. 
 
+This lab will be turned in as a **link to a GitHub repository**; all the code you have written for the project should be uploaded to the repository. If you started writing your code without first making a repository, you should:
+
+1. **Create** a new repository on GitHub.
+2. **Clone** the repository to your computer.
+3. **Copy** your files from wherever they are located on your computer into the newly cloned GitHub repository.
+4. **Add, committ, and push** the changes to GitHub.
 ## Specifications: Peer Review
 
 You will be asked to review two of your classmates' project drafts and give feedback on their design and implementation. This will come in the form of a **pull request on GitHub**. A specific feedback rubric will be provided for you (and posted here) at that time.
