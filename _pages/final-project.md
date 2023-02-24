@@ -89,9 +89,26 @@ This lab will be turned in as a **link to a GitHub repository**; all the code yo
 4. **Add, committ, and push** the changes to GitHub.
 ## Specifications: Peer Review
 
-You will be asked to review two of your classmates' project drafts and give feedback on their design and implementation. This will come in the form of a **pull request on GitHub**. A specific feedback rubric will be provided for you (and posted here) at that time.
+You will be asked to review two of your classmates' project drafts and give feedback on their design and implementation. This will come in the form of a **pull request on GitHub**. 
 
-**This must be completed on time (before lab on Thursday, March 2).** Note that this cannot be turned in late because your peers must have ample time to revise their projects given your feedback
+You have been assigned three project drafts; pick **any two** to review. You will get full credit for reviewing two. You can review all three if you wish to see some more drafts. 
+
+To complete your peer review, do the following:
+
+1. **Fork** your assignee's repository.
+2. **Clone** the forked version to your computer
+3. Try things out. Make comments about anything you don't understand; you can even make changes to the program if you have an idea of what to do differently. The important thing is that you change the file in some way, either with a comment like "I'm not sure what's going on here" or "you could use a dictionary here instead of two lists" or something similar. This part is freeform. 
+4. **Add, committ, and push** the changes to GitHub.
+5. **Make a pull request** to merge back into your assignee's repository. In the longer comment box for the peer review, answer the following questions.
+
+1. How **readable** did you find the code? How easy was it to figure out what was going on or what the code was intended to do?
+2. What was something you found **well-done** about the code? Something you feel would be a strong place to build from, either already implemented or an idea of an implementation?
+3. What was something you think could be **improved** and **do you have an idea to improve it**? 
+
+This constitutes your peer review. 
+
+**This must be completed on time (before lab on Thursday, March 2).** Note that this cannot be turned in late because your peers must have ample time to revise their projects given your feedback.
+
 
 ## Reflection
 
