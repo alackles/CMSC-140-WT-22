@@ -9,7 +9,7 @@ filename = Path("./data/MLB_batting_raw_data.csv")
 #        player_data = line.split(",")
 #        players.append(player_data)
 #
-#players_pd = pd.read_csv(filename)
+players_pd = pd.read_csv(filename)
 
 #print(players_pd)
 
