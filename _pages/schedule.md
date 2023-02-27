@@ -45,10 +45,10 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | F 2/17 | | HW5 | |
 | **Week 8** | **Revisiting Previous Topics** | | |
 | M 2/20 | Review: Flow Control + Input Handling ([notes][w8-d1]) | Perusall (optional) | | 
-| W 2/22 | Review: Data Structures + Data Processing  | Perusall (optional) | |
-| Th 2/23 | _Lab 5: Debug Challenge_  | Final Project Draft | Final Project Peer Comments
+| W 2/22 | NO CLASS - WEATHER | Perusall (optional) | |
+| Th 2/23 | _No Class_  | Final Project Draft | Final Project Peer Comments
 | **Week 9** | **Bonus Content** | | | 
-| M 2/27 | Asking Good Questions | | |
+| M 2/27 | Review: Data Structures | | |
 | W 3/1 | TBD: Student Choice | | |
 | Th 3/2 | Final Project Revisions | Final Project Peer Comments |
 | **Week 10** | **Final Project & Course Wrap-Up** | | |
