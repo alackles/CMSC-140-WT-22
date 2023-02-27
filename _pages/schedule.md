@@ -48,7 +48,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 | W 2/22 | NO CLASS - WEATHER | Perusall (optional) | |
 | Th 2/23 | _No Class_  | Final Project Draft | Final Project Peer Comments
 | **Week 9** | **Bonus Content** | | | 
-| M 2/27 | Review: Data Structures | | |
+| M 2/27 | Review: Data Structures ([notes][w9-d1]) | | |
 | W 3/1 | TBD: Student Choice | | |
 | Th 3/2 | Final Project Revisions | Final Project Peer Comments |
 | **Week 10** | **Final Project & Course Wrap-Up** | | |
@@ -87,6 +87,7 @@ This is a rough schedule of topics for each day, and the release and due dates f
 [w7-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w7-d1
 [w7-d2]: https://alackles.github.io/CMSC-140-WT-23/lectures/w7-d2
 [w8-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w8-d1
+[w9-d1]: https://alackles.github.io/CMSC-140-WT-23/lectures/w9-d1
 
 [survey]: https://forms.gle/iBCowEvcXXYFTmG57
 [mid-eval]: https://forms.gle/2qS7zFEqw4GxxRDSA
