@@ -37,7 +37,7 @@ Importantly, words that are capitalized differently should be considered to be t
 Example input:
 
 ```
-5
+6
 apple
 zebra
 Bear
