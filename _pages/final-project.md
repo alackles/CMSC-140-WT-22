@@ -98,7 +98,7 @@ To complete your peer review, do the following:
 1. **Fork** your assignee's repository.
 2. **Clone** the forked version to your computer
 3. Try things out. Make comments about anything you don't understand; you can even make changes to the program if you have an idea of what to do differently. The important thing is that you change the file in some way, either with a comment like "I'm not sure what's going on here" or "you could use a dictionary here instead of two lists" or something similar. This part is freeform. 
-4. **Add, committ, and push** the changes to GitHub.
+4. **Add, commit, and push** the changes to GitHub.
 5. **Make a pull request** to merge back into your assignee's repository. In the longer comment box for the peer review, answer the following questions.
 
 1. How **readable** did you find the code? How easy was it to figure out what was going on or what the code was intended to do?
